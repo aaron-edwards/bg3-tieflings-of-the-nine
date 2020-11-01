@@ -1,1 +1,1 @@
-# bg3-tieflings-of-the-nine
+# Tieflings of the Nine

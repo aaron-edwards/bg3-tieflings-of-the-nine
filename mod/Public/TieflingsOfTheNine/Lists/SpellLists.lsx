@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                 <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_ViciousMockery"/>
+                    <attribute id="UUID" type="guid" value="24ac4f4a-c217-4cb4-8a94-7af101ecbf50"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_CharmPerson"/>
+                    <attribute id="UUID" type="guid" value="4315965f-5023-4f7b-aba3-618ff98fbc90"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

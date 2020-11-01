@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="Ability(Intelligence,1);Ability(Charisma,2);ActionResource(Movement,9,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="DevilsTongueTiefling"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(24ac4f4a-c217-4cb4-8a94-7af101ecbf50,,Charisma,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="cb928dea-c73a-4fd6-8d1c-b557c8859353"/>
+                    <attribute id="UUID" type="guid" value="f59ea367-cbd1-4f16-87e4-84d604e78517"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="DevilsTongueTiefling"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="cb928dea-c73a-4fd6-8d1c-b557c8859353"/>
+                    <attribute id="UUID" type="guid" value="f4ab1b21-02af-4ab3-8e3e-180a24ea9675"/>
+                </node>   
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="DevilsTongueTiefling"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(4315965f-5023-4f7b-aba3-618ff98fbc90,,Charisma,,AlwaysPrepared,UntilRest)"/>
+                    <attribute id="TableUUID" type="guid" value="cb928dea-c73a-4fd6-8d1c-b557c8859353"/>
+                    <attribute id="UUID" type="guid" value="7251f7f7-70fb-4440-8819-c4349fdb8777"/>
+                </node>               
+            </children>
+        </node>
+    </region>
+</save>
