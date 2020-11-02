@@ -7,5 +7,12 @@
   "levistis.progression.2.id": "0b2edac6-d0a0-413f-a1a6-222fc816a633",
   "spelllist.armor_of_agathys": "f1ae407e-fb6e-4272-843a-bce16a058258",
   "levistis.preset.f.id": "fe7c795e-620b-40c4-926f-0e17c40153ac",
-  "levistis.preset.m.id": "082856ed-c6e8-4f24-88f4-09a6f2283f4c"
+  "levistis.preset.m.id": "082856ed-c6e8-4f24-88f4-09a6f2283f4c",
+  "baalzebul.id": "cfbf9042-cde3-451b-a51b-53cdcbf1aed9",
+  "baalzebul.progression.id": "4a9781cc-0614-417c-aa94-e394c5f050f7",
+  "baalzebul.progression.1.id": "0f9c7858-880b-4572-85b5-7816a7c78ecc",
+  "baalzebul.progression.2.id": "8658574e-228d-4f68-89a6-90dc93500756",
+  "baalzebul.preset.f.id": "3796a92a-55e9-47ba-a44d-b4f1653807ea",
+  "baalzebul.preset.m.id": "489d1236-b086-4b1f-9269-8992c6c7b627",
+  "spelllist.ray_of_sickness": "d0033ef5-4ad1-47f7-8464-045829dd170f"
 }

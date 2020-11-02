@@ -1,5 +1,5 @@
+import baalzebul from './tieflings/baalzebul';
 import levistis from './tieflings/levistus';
-
 const mod = {
   author: 'aedwards',
   name: 'Tieflings of the nine',
@@ -11,7 +11,7 @@ const mod = {
 
 const data = {
   mod,
-  tieflings: [levistis],
+  tieflings: [baalzebul, levistis],
   spellLists: [
     {
       spells: 'Projectile_RayOfFrost',
