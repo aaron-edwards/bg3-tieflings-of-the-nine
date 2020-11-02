@@ -1,6 +1,5 @@
 import colors from './colors.json';
 import tiefling from './tiefling';
-import levistis from './tieflings/levistus';
 
 const mod = {
   author: 'aedwards',
@@ -36,6 +35,30 @@ const data = {
       skinColors: [...colors.OTH.Dryad, ...colors.ELF.Wood].map((c) => c.uuid),
     }),
     tiefling({
+      name: 'Dispater',
+      description:
+        'The great city of Dis occupies most of Hell’s second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators.',
+      levels: [
+        {
+          level: 1,
+          boosts:
+            'Ability(Dexterity,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+          selectors:
+            'AddSpells({{spelllist.thaumaturgy}},,Charisma,,AlwaysPrepared)',
+        },
+        {
+          level: 3,
+          boosts:
+            'Ability(Dexterity,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+          selectors:
+            'AddSpells({{spelllist.disguise_self}},,Charisma,,AlwaysPrepared)',
+        },
+      ],
+      skinColors: [...colors.UND.Ash, ...colors.UND.Amethyst].map(
+        (c) => c.uuid
+      ),
+    }),
+    tiefling({
       name: 'Levistus',
       description:
         'Frozen Stygia is ruled by Levistus, an archdevil known for offering bargains to those who face an inescapable doom.',
@@ -64,6 +87,10 @@ const data = {
     {
       spells: 'Shout_ArmorOfAgathys',
       uuid: '{{spelllist.armor_of_agathys}}',
+    },
+    {
+      spells: 'Shout_DisguiseSelf',
+      uuid: '{{spelllist.disguise_self}}',
     },
   ],
 };

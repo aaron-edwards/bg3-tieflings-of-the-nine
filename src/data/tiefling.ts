@@ -39,7 +39,7 @@ export default ({ name, description, levels, skinColors }: TieflingOptions) => {
         uuid: uuidKey('preset.f.id'),
         gender: 'Female',
         rootTemplate: {
-          uuid: 'aadac54f-38c0-4486-b45f-01c30e2e9323',
+          uuid: 'cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2',
         },
       },
       {
@@ -47,7 +47,7 @@ export default ({ name, description, levels, skinColors }: TieflingOptions) => {
         uuid: uuidKey('preset.m.id'),
         gender: 'Male',
         rootTemplate: {
-          uuid: 'cc71e73a-53eb-4f49-ab31-e80d5d5f1ef2',
+          uuid: 'aadac54f-38c0-4486-b45f-01c30e2e9323',
         },
       },
     ],
