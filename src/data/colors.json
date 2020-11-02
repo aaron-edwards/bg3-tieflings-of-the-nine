@@ -1,0 +1,1282 @@
+{
+    "HUM": {
+      "Neutral": [
+        {
+          "uuid": "1e0b7ef4-ce37-430c-8d0b-a319990c3d68",
+          "uiColor": "#FFFFE1CD"
+        },
+        {
+          "uuid": "dd0ecb5d-050f-4d17-9086-7fde44d03ac6",
+          "uiColor": "#FFD9B49B"
+        },
+        {
+          "uuid": "05e853dd-6b9a-420a-adea-64139af6f321",
+          "uiColor": "#FFD4AA8D"
+        },
+        {
+          "uuid": "93a7688b-cf6e-4551-b7e8-e918bfccda91",
+          "uiColor": "#FFB78B6D"
+        },
+        {
+          "uuid": "f43ccca9-7645-4444-a0bd-8364f101c76e",
+          "uiColor": "#FFA37759"
+        },
+        {
+          "uuid": "aff4b4b5-23c2-4a66-906b-e10198f7e5f4",
+          "uiColor": "#FF8A6247"
+        },
+        {
+          "uuid": "315afdac-d396-46c4-8247-b799efc5ff7a",
+          "uiColor": "#FF82573D"
+        },
+        {
+          "uuid": "e65b17bf-941c-4250-b5b7-5f30b19a385c",
+          "uiColor": "#FF6B4730"
+        },
+        {
+          "uuid": "e12fcb33-bd8e-489a-9b69-69b8ef01ee84",
+          "uiColor": "#FF573825"
+        },
+        {
+          "uuid": "84b2eb37-5445-4144-8582-e871d5c0aafc",
+          "uiColor": "#FF422915"
+        }
+      ],
+      "Cool": [
+        {
+          "uuid": "bfc234ff-5e89-494d-8d8b-87dc2315a788",
+          "uiColor": "#FFFFD8CD"
+        },
+        {
+          "uuid": "5117976d-c8c2-4ef8-99e0-a5c9d252dac7",
+          "uiColor": "#FFE3AD9E"
+        },
+        {
+          "uuid": "3ddad742-6692-4fb8-9460-a3be64ce66e9",
+          "uiColor": "#FFC99484"
+        },
+        {
+          "uuid": "7ea20754-7e09-43e0-a451-63cae0156fe4",
+          "uiColor": "#FFB78171"
+        },
+        {
+          "uuid": "0b3293f7-ee19-427e-8c84-d772dc3c4ad0",
+          "uiColor": "#FFA36C5C"
+        },
+        {
+          "uuid": "806f9d1d-7db3-4106-b538-45dc913536fa",
+          "uiColor": "#FF8A5748"
+        },
+        {
+          "uuid": "a768f722-c5e8-4094-a37d-38fab7548937",
+          "uiColor": "#FF73473A"
+        },
+        {
+          "uuid": "8711c9cf-b232-4813-bfb2-e7796460b699",
+          "uiColor": "#FF63392D"
+        },
+        {
+          "uuid": "0840081e-66e5-4ca3-8e65-02d2a4c5240a",
+          "uiColor": "#FF542F24"
+        },
+        {
+          "uuid": "1e906d9f-b2d8-4d0f-8f9a-921c3cb38a12",
+          "uiColor": "#FF40231B"
+        }
+      ],
+      "Warm": [
+        {
+          "uuid": "64d279f8-557f-47ff-b56d-3127303b76ce",
+          "uiColor": "#FFFFECC9"
+        },
+        {
+          "uuid": "4804c9f0-f0de-44b1-a253-2c4cb9d2dcb6",
+          "uiColor": "#FFE8CAA1"
+        },
+        {
+          "uuid": "83046b91-00bb-4568-97de-44dcfed256cb",
+          "uiColor": "#FFD4B081"
+        },
+        {
+          "uuid": "239b0a05-76cd-4165-9d06-e1cec4a1b6bb",
+          "uiColor": "#FFC49E6B"
+        },
+        {
+          "uuid": "c52563ec-1578-4575-96bd-d1aafff0a34f",
+          "uiColor": "#FFB58C59"
+        },
+        {
+          "uuid": "75bdbfed-0faa-4d96-89f5-5c961b6c764e",
+          "uiColor": "#FF997343"
+        },
+        {
+          "uuid": "969e5403-22fa-4f9d-8594-18a087a743fe",
+          "uiColor": "#FF7D5D34"
+        },
+        {
+          "uuid": "2be28342-ae98-48b3-9545-8ab51f449069",
+          "uiColor": "#FF684B27"
+        },
+        {
+          "uuid": "3881d4f7-271b-4a6e-9853-e42932c4d7b7",
+          "uiColor": "#FF4F3718"
+        },
+        {
+          "uuid": "718b7a30-f933-4570-920b-1c37d56402a9",
+          "uiColor": "#FF402B11"
+        }
+      ],
+      "Blush": [
+        {
+          "uuid": "322b2a54-a6f5-4f1b-9d28-b87df3475abf",
+          "uiColor": "#FFFFD9B0"
+        },
+        {
+          "uuid": "74fdb28a-d6e8-4ead-a4da-6da115c912ee",
+          "uiColor": "#FFF2C294"
+        },
+        {
+          "uuid": "06c02e08-8e7f-4439-a83b-16403b42f31d",
+          "uiColor": "#FFEAA87A"
+        },
+        {
+          "uuid": "032b84d0-bc63-4ae5-87ed-ed030e5db44d",
+          "uiColor": "#FFD99065"
+        },
+        {
+          "uuid": "3bb67e01-fc52-4c35-b573-557ae5c0d6a2",
+          "uiColor": "#FFC27950"
+        },
+        {
+          "uuid": "7c73daea-edfd-4ac1-b9c6-eab15a287baa",
+          "uiColor": "#FFA65E3D"
+        },
+        {
+          "uuid": "34fec9fb-9db4-4409-b071-40af98d94d7c",
+          "uiColor": "#FF945230"
+        },
+        {
+          "uuid": "79598998-22dc-40eb-8a9b-9003a9f6fed9",
+          "uiColor": "#FF7A4424"
+        },
+        {
+          "uuid": "a067dcc4-ee5b-471c-8ec2-30012438a941",
+          "uiColor": "#FF61351C"
+        },
+        {
+          "uuid": "9031ed7e-b3e2-437a-9297-108657677bfd",
+          "uiColor": "#FF472814"
+        }
+      ],
+      "Pallid": [
+        {
+          "uuid": "01c83a43-6725-448c-84d3-30b3ec367743",
+          "uiColor": "#FFFFE1D5"
+        },
+        {
+          "uuid": "213c0374-6777-46ad-b030-6a601383e7f2",
+          "uiColor": "#FFE3C6BA"
+        },
+        {
+          "uuid": "bffc9f01-414f-45f7-a89d-14b45c5f2155",
+          "uiColor": "#FFC4A597"
+        },
+        {
+          "uuid": "f0eeda6f-deb1-4e9f-9577-b6183796f9c8",
+          "uiColor": "#FFAB8E81"
+        },
+        {
+          "uuid": "6329bdc2-ed27-4c30-8332-85759035e22e",
+          "uiColor": "#FF947669"
+        },
+        {
+          "uuid": "998b10e2-7fc2-4cca-ae6a-2ab093c832f9",
+          "uiColor": "#FF7F6356"
+        },
+        {
+          "uuid": "7a4ac793-f160-416a-b868-40002deece10",
+          "uiColor": "#FF735649"
+        },
+        {
+          "uuid": "7161e183-33d0-474d-9d29-3f22cb284cd5",
+          "uiColor": "#FF664A3C"
+        },
+        {
+          "uuid": "980fd83e-f961-4646-b5eb-759a74dba2ec",
+          "uiColor": "#FF513A2D"
+        },
+        {
+          "uuid": "c348bffd-9181-4de1-a62f-005ec972aec9",
+          "uiColor": "#FF453025"
+        }
+      ]
+    },
+    "UND": {
+      "Lichen": [
+        {
+          "uuid": "b67abd6a-302c-448e-ba59-8bd4c7f8cae8",
+          "uiColor": "#FFC9D2D4"
+        },
+        {
+          "uuid": "f77a3290-d6f3-473d-967c-435d85615e3e",
+          "uiColor": "#FFA6B4B7"
+        },
+        {
+          "uuid": "af387876-2335-48c6-885d-cb87ca330321",
+          "uiColor": "#FF8C989B"
+        },
+        {
+          "uuid": "728fb221-cf5c-4af2-b205-0e6dcd73bc4c",
+          "uiColor": "#FF7D8A8C"
+        },
+        {
+          "uuid": "0ceaedff-5c1e-4480-8c35-6aa050dd76e6",
+          "uiColor": "#FF6F7D7F"
+        },
+        {
+          "uuid": "6116105a-21e3-45ab-8001-ac5345a656e3",
+          "uiColor": "#FF5E696B"
+        },
+        {
+          "uuid": "3ab66b2d-d4e6-4a9e-a111-0cd7c2e8cd90",
+          "uiColor": "#FF4A5254"
+        },
+        {
+          "uuid": "2ecdbf22-0409-4e74-b6ab-c46fe075c5ae",
+          "uiColor": "#FF3F484A"
+        },
+        {
+          "uuid": "369a6a60-e750-4d9f-938c-e19e053dbcb3",
+          "uiColor": "#FF343B3D"
+        },
+        {
+          "uuid": "96a818a0-fb4a-4b57-874a-37f8760e2786",
+          "uiColor": "#FF2B3233"
+        }
+      ],
+      "Dusk": [
+        {
+          "uuid": "8cf3620e-66ef-42b6-bb23-64271183c8c2",
+          "uiColor": "#FFBBB8C4"
+        },
+        {
+          "uuid": "90d2cbd1-a021-4734-b9c6-ecb41f53afff",
+          "uiColor": "#FFA9A6B2"
+        },
+        {
+          "uuid": "16085a2d-65cf-4ab7-9e6f-5a58341904ff",
+          "uiColor": "#FF898691"
+        },
+        {
+          "uuid": "8ba33f5d-ad5f-4812-8ae8-52d7d3194fc4",
+          "uiColor": "#FF726F7A"
+        },
+        {
+          "uuid": "c5e2af3f-f527-4ccd-b53c-132006387a2b",
+          "uiColor": "#FF65616E"
+        },
+        {
+          "uuid": "479a5b04-e277-4f1d-aa08-5bf282ca1b76",
+          "uiColor": "#FF54515C"
+        },
+        {
+          "uuid": "5e1f074a-3f37-4d60-b491-9ab39b681fc5",
+          "uiColor": "#FF4A4751"
+        },
+        {
+          "uuid": "bca53823-91e7-4387-8bbc-f70e2c00d4b7",
+          "uiColor": "#FF403E47"
+        },
+        {
+          "uuid": "6042da3d-dc95-4584-b2a4-425fdee4deaf",
+          "uiColor": "#FF36343D"
+        },
+        {
+          "uuid": "1c611d94-b03d-4a4e-b6a4-afb749de15f8",
+          "uiColor": "#FF28262E"
+        }
+      ],
+      "Ash": [
+        {
+          "uuid": "2900ecf5-1cbd-4010-8ecb-2e799677184d",
+          "uiColor": "#FFC7BCBB"
+        },
+        {
+          "uuid": "96a85bb7-eb50-4a31-92e9-9e43b732bc55",
+          "uiColor": "#FFBAA9A7"
+        },
+        {
+          "uuid": "13253fe9-9a8e-4c53-bb4a-3caf0900d865",
+          "uiColor": "#FF9B8D8C"
+        },
+        {
+          "uuid": "1c0e882a-f2e3-409c-ad11-c86c73a6ee8a",
+          "uiColor": "#FF827776"
+        },
+        {
+          "uuid": "2fb35277-872d-4582-909d-efd27ac84fca",
+          "uiColor": "#FF665F5F"
+        },
+        {
+          "uuid": "a8c9bacc-934e-4167-b4fc-d87cd58b1991",
+          "uiColor": "#FF544F53"
+        },
+        {
+          "uuid": "51990152-f875-43e7-83a1-06b429de9a57",
+          "uiColor": "#FF4B464C"
+        },
+        {
+          "uuid": "b05d2e82-6086-4bec-a072-2ab50ed2b064",
+          "uiColor": "#FF413D42"
+        },
+        {
+          "uuid": "aa5748e6-cf6f-4d9d-b5fa-d826da457f3c",
+          "uiColor": "#FF343035"
+        },
+        {
+          "uuid": "a965f73f-9fec-458f-a474-5b9494e0c5cd",
+          "uiColor": "#FF282529"
+        }
+      ],
+      "Wisteria": [
+        {
+          "uuid": "eb50f6f8-731b-4b3a-9494-bd527b4b7669",
+          "uiColor": "#FFBDAFBD"
+        },
+        {
+          "uuid": "2a8a7558-bc16-44a9-95ee-ad78a5159069",
+          "uiColor": "#FFAB9BAB"
+        },
+        {
+          "uuid": "5b7fb798-3c6b-49e4-ad6f-5cd0d37ede59",
+          "uiColor": "#FF968A96"
+        },
+        {
+          "uuid": "6aa0a212-e3e4-44de-9b11-e8db3e8b9f24",
+          "uiColor": "#FF827682"
+        },
+        {
+          "uuid": "f2af77ff-9b0b-4b59-b2be-6282a9c590f4",
+          "uiColor": "#FF6E636E"
+        },
+        {
+          "uuid": "991292a3-19b0-4a77-b235-861ebf6760fd",
+          "uiColor": "#FF615661"
+        },
+        {
+          "uuid": "5be61373-0dca-499c-b506-361a44a2bf05",
+          "uiColor": "#FF4C444C"
+        },
+        {
+          "uuid": "3667eaaa-3a2b-4bb8-8348-10b37842dfa2",
+          "uiColor": "#FF453C45"
+        },
+        {
+          "uuid": "0f1440e0-31b5-495b-897e-1af4ff923014",
+          "uiColor": "#FF3D353D"
+        },
+        {
+          "uuid": "34396b01-b1aa-44a2-a196-3b551ad92e7a",
+          "uiColor": "#FF332C33"
+        }
+      ],
+      "Amethyst": [
+        {
+          "uuid": "5cad8c94-8360-4fd6-aeef-648531de414c",
+          "uiColor": "#FFBAA5B1"
+        },
+        {
+          "uuid": "90a2d62e-510f-4fc3-862d-b6e3d67ce731",
+          "uiColor": "#FFB096A5"
+        },
+        {
+          "uuid": "b473c50c-bb48-4d78-bd3b-57beac6c8be0",
+          "uiColor": "#FF947D88"
+        },
+        {
+          "uuid": "570d3b02-a5df-44b4-be90-07442d2ccce8",
+          "uiColor": "#FF8A707C"
+        },
+        {
+          "uuid": "f296cd71-35e6-49f5-b5ce-a67c2e3383aa",
+          "uiColor": "#FF735F69"
+        },
+        {
+          "uuid": "bfc94ac5-4ab5-4218-8d58-f872c4ace7ea",
+          "uiColor": "#FF63505A"
+        },
+        {
+          "uuid": "bac2178f-df95-4d76-bc96-dc2bf8b70d94",
+          "uiColor": "#FF54444C"
+        },
+        {
+          "uuid": "5b6093f5-83c7-42ce-bfb2-35ddca277d0a",
+          "uiColor": "#FF4A3940"
+        },
+        {
+          "uuid": "f5cf97ee-6d6a-4c45-8683-8027ea0645c9",
+          "uiColor": "#FF3D333A"
+        },
+        {
+          "uuid": "222bc88a-57dc-45e7-a620-5cb947ae1cf6",
+          "uiColor": "#FF372C33"
+        }
+      ]
+    },
+    "GTY": {
+      "Sienna": [
+        {
+          "uuid": "aec41a5f-2873-41ce-b308-03b3aa508378",
+          "uiColor": "#FFE0AA89"
+        },
+        {
+          "uuid": "67f0f268-697e-40c2-bba9-4e8046d16f0a",
+          "uiColor": "#FFD49873"
+        },
+        {
+          "uuid": "5f17e127-17f3-4c60-8317-770cc437b23a",
+          "uiColor": "#FFB77B57"
+        },
+        {
+          "uuid": "e68e24e0-3b0f-4586-8d66-390ece8c50ad",
+          "uiColor": "#FFA16543"
+        },
+        {
+          "uuid": "30533b97-db50-4cc3-a21e-bbb12669e1d9",
+          "uiColor": "#FF915836"
+        },
+        {
+          "uuid": "a9b924a0-36f2-4d86-94c0-03c7b69e4fef",
+          "uiColor": "#FF7F4929"
+        },
+        {
+          "uuid": "7cee4a6f-c317-4bb9-8a87-a25e60237968",
+          "uiColor": "#FF66371C"
+        },
+        {
+          "uuid": "ba94225a-4d82-4977-9bfc-de32113a6318",
+          "uiColor": "#FF4F2C18"
+        }
+      ],
+      "Gold": [
+        {
+          "uuid": "bc015f70-f4c0-4140-b282-9c6fbe912746",
+          "uiColor": "#FFDEB892"
+        },
+        {
+          "uuid": "bf737ba3-2fad-454c-bb6e-2475be1b9fb9",
+          "uiColor": "#FFD4A373"
+        },
+        {
+          "uuid": "3c1bde05-2486-4d8a-9a9d-3125fc182d6e",
+          "uiColor": "#FFBF8E5E"
+        },
+        {
+          "uuid": "ec68b4ce-2ecd-4c6e-b476-613ccd14a232",
+          "uiColor": "#FFA37445"
+        },
+        {
+          "uuid": "efc95d77-91bf-4b70-88e9-668e6a0a4004",
+          "uiColor": "#FF916437"
+        },
+        {
+          "uuid": "01966ce8-7034-4d9b-839c-ad877d973ccf",
+          "uiColor": "#FF7F552A"
+        },
+        {
+          "uuid": "f5da879f-ff07-4c2f-9c1b-68bb9e088800",
+          "uiColor": "#FF6E4620"
+        },
+        {
+          "uuid": "80c6555e-5fdf-4cbd-b417-8bc2501e8ef7",
+          "uiColor": "#FF593819"
+        }
+      ],
+      "Ochre": [
+        {
+          "uuid": "49fc5176-e312-4f7a-9722-09396c96c7f8",
+          "uiColor": "#FFE0C790"
+        },
+        {
+          "uuid": "a5f3d852-bcd1-422d-b20a-36a22478ed46",
+          "uiColor": "#FFD4B673"
+        },
+        {
+          "uuid": "1d239321-50bb-413f-869a-4c5cdf3388a2",
+          "uiColor": "#FFB79854"
+        },
+        {
+          "uuid": "9132a0a1-daa7-434b-a8d9-af8b3af01925",
+          "uiColor": "#FFA88945"
+        },
+        {
+          "uuid": "d6b883ff-7b78-4c9c-a13d-ec7cb6cd67ca",
+          "uiColor": "#FF917639"
+        },
+        {
+          "uuid": "a237fb90-572c-42a1-a88d-ca4b96a6ecb4",
+          "uiColor": "#FF7D642B"
+        },
+        {
+          "uuid": "5b7713dd-dcbf-48a5-8c6d-ae3f00642823",
+          "uiColor": "#FF6E5722"
+        },
+        {
+          "uuid": "f9b38a3c-d248-48d6-8f15-c94882621535",
+          "uiColor": "#FF59461A"
+        }
+      ],
+      "Olive": [
+        {
+          "uuid": "b96cb5e0-8cbc-4d3b-b14f-a330b9343449",
+          "uiColor": "#FFE5DC8F"
+        },
+        {
+          "uuid": "3d95b43d-08b2-4cb7-87e3-9236afd91543",
+          "uiColor": "#FFD4C973"
+        },
+        {
+          "uuid": "650eb24b-0fb5-4af0-abe5-ae478200ecd7",
+          "uiColor": "#FFBDB15B"
+        },
+        {
+          "uuid": "8a99c4cd-87b4-4c2f-b74f-32e643634913",
+          "uiColor": "#FFA69A45"
+        },
+        {
+          "uuid": "b465a629-4acf-414f-bf20-4a47828948d2",
+          "uiColor": "#FF8C8135"
+        },
+        {
+          "uuid": "eba1dc17-c508-42dd-be68-71f5dfabc422",
+          "uiColor": "#FF736927"
+        },
+        {
+          "uuid": "64cf462a-e86b-4505-b430-e49a13d8f2db",
+          "uiColor": "#FF5E561E"
+        },
+        {
+          "uuid": "a27cf87e-fcd9-4f24-9cdb-13797da9cec9",
+          "uiColor": "#FF4F4818"
+        }
+      ],
+      "Sage": [
+        {
+          "uuid": "c3fadef8-641b-4653-9b07-445fafbbd358",
+          "uiColor": "#FFD7E097"
+        },
+        {
+          "uuid": "98ba98e1-4fc2-47fe-a089-b0dde95ee9c7",
+          "uiColor": "#FFC2CC7E"
+        },
+        {
+          "uuid": "c808d08b-0a7a-4e78-8633-623d3da75a0f",
+          "uiColor": "#FFA1A865"
+        },
+        {
+          "uuid": "922e2280-00a8-4fd9-a925-038754c39c61",
+          "uiColor": "#FF919955"
+        },
+        {
+          "uuid": "660c15eb-ef22-4ab1-9ed0-aa6882349702",
+          "uiColor": "#FF71783C"
+        },
+        {
+          "uuid": "66e16be8-2a5e-48a6-ba89-bc597b8894ba",
+          "uiColor": "#FF606633"
+        },
+        {
+          "uuid": "336ee1ad-2f7c-4f51-91af-7323bad3731a",
+          "uiColor": "#FF52572E"
+        },
+        {
+          "uuid": "eaf5f1c5-8af3-4dbc-bf3a-4935550216c0",
+          "uiColor": "#FF414523"
+        }
+      ]
+    },
+    "ELF": {
+      "Moon": [
+        {
+          "uuid": "49121d4f-d896-4d83-87ec-17e50919f47c",
+          "uiColor": "#FFFFD8F1"
+        },
+        {
+          "uuid": "de24c1e9-641b-4ee4-92d6-993a8b48c670",
+          "uiColor": "#FFEABCD6"
+        },
+        {
+          "uuid": "b48579db-ab55-4824-af6b-02a4551daff6",
+          "uiColor": "#FFCEA6C4"
+        },
+        {
+          "uuid": "6cbaed75-4158-4592-b61a-3b1e6707fa48",
+          "uiColor": "#FFB590AC"
+        },
+        {
+          "uuid": "6b0394f1-9203-40cb-85bf-a8b2c58c4ff3",
+          "uiColor": "#FF997492"
+        },
+        {
+          "uuid": "85a50c1a-7cf6-4f33-a8af-cd6f781569a6",
+          "uiColor": "#FF876380"
+        },
+        {
+          "uuid": "5c41fae4-6d13-4a8c-a36a-9741edd87833",
+          "uiColor": "#FF75576F"
+        },
+        {
+          "uuid": "95716a37-aa74-4eb5-a834-858e8874eb59",
+          "uiColor": "#FF63485E"
+        },
+        {
+          "uuid": "11fb3ab2-a64d-46cf-afc2-8628255cb38e",
+          "uiColor": "#FF593F54"
+        },
+        {
+          "uuid": "fdf93669-46e7-408e-b102-70b3c5647375",
+          "uiColor": "#FF473444"
+        }
+      ],
+      "Wood": [
+        {
+          "uuid": "ea3d085b-1307-4ddc-9b39-21688a496e4b",
+          "uiColor": "#FFD9D294"
+        },
+        {
+          "uuid": "4f38fac0-2e0f-4cab-a22d-30f90a7dbf05",
+          "uiColor": "#FFCCBF7A"
+        },
+        {
+          "uuid": "8f29cd1f-6f74-4980-add9-69cdfc74b431",
+          "uiColor": "#FFBAA667"
+        },
+        {
+          "uuid": "fb79611c-47e8-4627-b10d-f84bc8458bab",
+          "uiColor": "#FFA38E53"
+        },
+        {
+          "uuid": "15b6f204-ec7b-46c5-88f2-e61e78bc966d",
+          "uiColor": "#FF917745"
+        },
+        {
+          "uuid": "d59e2358-63ed-429e-ade4-43a27effa3ab",
+          "uiColor": "#FF846C3D"
+        },
+        {
+          "uuid": "b5f628c9-3195-4e97-a183-830cbc4e39fa",
+          "uiColor": "#FF755E35"
+        },
+        {
+          "uuid": "a278748a-f514-4d14-affd-0b87ecc784f1",
+          "uiColor": "#FF614C28"
+        },
+        {
+          "uuid": "308c6085-09a7-4cca-9bc2-ebd2c592e52c",
+          "uiColor": "#FF594124"
+        },
+        {
+          "uuid": "2dea093d-1d07-4a40-9e95-646f24c8b31b",
+          "uiColor": "#FF4F391E"
+        }
+      ]
+    },
+    "OTH": {
+      "Vamp": [
+        {
+          "uuid": "15892f05-8171-471f-93c9-bc3e59c28a6e",
+          "uiColor": "#FFD9CDCC"
+        },
+        {
+          "uuid": "48ede43f-7f25-4dd5-b11b-f2bb9ae74694",
+          "uiColor": "#FFC7B6B4"
+        },
+        {
+          "uuid": "de5c5f2d-2c12-44b2-b206-3e6e5803b21c",
+          "uiColor": "#FFB5A29F"
+        },
+        {
+          "uuid": "4c07c1a6-984e-4208-874e-6af141dc3b29",
+          "uiColor": "#FFA39190"
+        },
+        {
+          "uuid": "0889221c-91cc-472c-ad13-d6f1a2c8ad66",
+          "uiColor": "#FF8A7973"
+        },
+        {
+          "uuid": "a7857178-de80-4484-9c71-7593412e0e62",
+          "uiColor": "#FF786762"
+        },
+        {
+          "uuid": "472567f6-4b0a-47f0-855a-308af027de9f",
+          "uiColor": "#FF665752"
+        },
+        {
+          "uuid": "d8493de2-3c39-4553-841a-43f7511d825c",
+          "uiColor": "#FF61514B"
+        },
+        {
+          "uuid": "03aa6082-a2fa-4ffb-b4f4-61ec529bed27",
+          "uiColor": "#FF544742"
+        },
+        {
+          "uuid": "4209e2e2-eb9e-4cd0-bcac-de10f9e5c01d",
+          "uiColor": "#FF423834"
+        }
+      ],
+      "Aqua": [
+        {
+          "uuid": "b8ec02f6-1da8-43cc-b77a-31f58215222b",
+          "uiColor": "#FFC5DBDB"
+        },
+        {
+          "uuid": "86a2592b-95e2-4cb0-9537-5a4ed8777a4f",
+          "uiColor": "#FFA1BFBF"
+        },
+        {
+          "uuid": "e9de2501-feed-4f2b-90ce-84cb1c294c49",
+          "uiColor": "#FF7E9E9E"
+        },
+        {
+          "uuid": "794cb4d6-7e72-42a0-a9b8-3ec8baddf931",
+          "uiColor": "#FF5C7F7F"
+        },
+        {
+          "uuid": "7d7ca35b-6e06-460a-a6c2-183c031fcaf1",
+          "uiColor": "#FF3F6868"
+        },
+        {
+          "uuid": "d7657000-843e-4c31-8a06-05fd43583337",
+          "uiColor": "#FF295151"
+        },
+        {
+          "uuid": "a2f22ec3-e1c1-460f-8ae4-fa3844013ce8",
+          "uiColor": "#FF204545"
+        },
+        {
+          "uuid": "da0f9263-46de-43aa-aea6-5014cbf5125a",
+          "uiColor": "#FF193535"
+        }
+      ],
+      "Green": [
+        {
+          "uuid": "87201f91-7986-4322-b206-068a820ae7a0",
+          "uiColor": "#FFC6E8CC"
+        },
+        {
+          "uuid": "92cc4908-d0ab-4ad8-b32c-d1451d6ba8d2",
+          "uiColor": "#FFA3CEAB"
+        },
+        {
+          "uuid": "06c81710-4455-4151-ba49-139c80f0f3dd",
+          "uiColor": "#FF72AB8E"
+        },
+        {
+          "uuid": "7ce000b5-4b9a-4d44-9504-17da4f755d9f",
+          "uiColor": "#FF538C6F"
+        },
+        {
+          "uuid": "bf356b20-3e7f-49f8-bb35-9d2febabf74c",
+          "uiColor": "#FF377053"
+        },
+        {
+          "uuid": "dc3d48c1-3558-43d0-8f23-f59e83acd71c",
+          "uiColor": "#FF275C41"
+        },
+        {
+          "uuid": "9c531708-31a5-4776-8eab-5585b4d88464",
+          "uiColor": "#FF1B4A32"
+        },
+        {
+          "uuid": "2982b10f-b23e-49c7-ba35-3322c76409af",
+          "uiColor": "#FF133825"
+        }
+      ],
+      "Lime": [
+        {
+          "uuid": "c17b565c-452d-4ec0-a30d-f01c46ac96fd",
+          "uiColor": "#FFD4FFBA"
+        },
+        {
+          "uuid": "4b859999-61cd-4e54-8ebf-15773261456e",
+          "uiColor": "#FFACD494"
+        },
+        {
+          "uuid": "0b3ed625-28f0-4a50-9703-c333b304e96d",
+          "uiColor": "#FF72BA7A"
+        },
+        {
+          "uuid": "520b9415-efb2-4d25-a656-27939e7cb966",
+          "uiColor": "#FF59A161"
+        },
+        {
+          "uuid": "1cefc76e-e6a3-4452-98de-bf22bab8d082",
+          "uiColor": "#FF438A4B"
+        },
+        {
+          "uuid": "af88f66e-f79b-440b-9ad2-682ebe6c526c",
+          "uiColor": "#FF316E31"
+        },
+        {
+          "uuid": "2b874d85-e7f6-48ed-b437-3e325b533031",
+          "uiColor": "#FF265126"
+        },
+        {
+          "uuid": "958ee617-7966-4021-b51b-525c97f03a93",
+          "uiColor": "#FF1F3D1F"
+        }
+      ],
+      "Efreeti": [
+        {
+          "uuid": "db8020ab-f484-4d70-93dc-21ca5ce7f274",
+          "uiColor": "#FFFF6041"
+        },
+        {
+          "uuid": "1b893b7a-6087-484c-b340-3c5dff3e9e6b",
+          "uiColor": "#FFD1472C"
+        },
+        {
+          "uuid": "74531adb-3edd-44f8-adb1-441711d36b7a",
+          "uiColor": "#FFA3311A"
+        },
+        {
+          "uuid": "12cab803-7b1b-4e59-850f-0f10988e4190",
+          "uiColor": "#FF822411"
+        },
+        {
+          "uuid": "f29d756e-7d42-4093-9890-14f05e5b1145",
+          "uiColor": "#FF51170B"
+        }
+      ],
+      "Dryad": [
+        {
+          "uuid": "4f967379-9da4-4a59-8378-eaceeeab7336",
+          "uiColor": "#FFAFDB50"
+        },
+        {
+          "uuid": "8ad194b7-ac48-41ab-8a17-5d571f2c3d88",
+          "uiColor": "#FF9FAD3E"
+        },
+        {
+          "uuid": "a72a3052-108a-4bff-a5ac-cfa762381eb7",
+          "uiColor": "#FF6F731D"
+        },
+        {
+          "uuid": "3ecff1a9-9e2f-4eb5-8081-2e1eeae48265",
+          "uiColor": "#FF595316"
+        },
+        {
+          "uuid": "c2ed6d30-4d67-4453-a4cc-8725e257ca15",
+          "uiColor": "#FF40360B"
+        }
+      ],
+      "Marid": [
+        {
+          "uuid": "3c87a87a-7d8a-4092-9cf2-49dd2dde4f47",
+          "uiColor": "#FF7797FF"
+        },
+        {
+          "uuid": "84c7ac52-a129-4863-b438-41d6fc6a51c0",
+          "uiColor": "#FF6073B5"
+        },
+        {
+          "uuid": "b646365d-5799-4adf-ac60-1c24e719a389",
+          "uiColor": "#FF545D7A"
+        },
+        {
+          "uuid": "928ca782-dd72-40c0-95c6-6c07941f0f2a",
+          "uiColor": "#FF444457"
+        },
+        {
+          "uuid": "7fd46fa6-e1c7-4fd8-bd28-28adeccec18d",
+          "uiColor": "#FF2C2A30"
+        }
+      ],
+      "Fey": [
+        {
+          "uuid": "23faa956-9197-4d64-b881-cd012cd2c796",
+          "uiColor": "#FFFF5BFF"
+        },
+        {
+          "uuid": "ad6a4975-e510-4385-ae6b-76484ffe8fdf",
+          "uiColor": "#FFA34C93"
+        },
+        {
+          "uuid": "c4d95733-8b62-48da-bd50-2a3d884442f0",
+          "uiColor": "#FF7D3C61"
+        },
+        {
+          "uuid": "8d4db542-f81f-4395-918a-2643be2653a3",
+          "uiColor": "#FF612943"
+        },
+        {
+          "uuid": "ce39b231-a69e-4fcc-8b6b-83ee1e7ba811",
+          "uiColor": "#FF451B27"
+        }
+      ],
+      "Decay": [
+        {
+          "uuid": "bc808d44-ce36-47a1-9540-214e05674b16",
+          "uiColor": "#FFB0B0B0"
+        },
+        {
+          "uuid": "cba7bbff-e6a2-465f-87a3-f525814e644a",
+          "uiColor": "#FF878787"
+        },
+        {
+          "uuid": "52bf1839-c4e0-4e4f-afb1-b6bd65ca385e",
+          "uiColor": "#FF666666"
+        },
+        {
+          "uuid": "8d0ea2ca-2cc0-42a9-ba4d-daee13da49fe",
+          "uiColor": "#FF454545"
+        },
+        {
+          "uuid": "06d1d5e7-18c9-4e63-913f-5dfafd648582",
+          "uiColor": "#FF303030"
+        }
+      ]
+    },
+    "TIF": {
+      "Smoke": [
+        {
+          "uuid": "a83122c6-dfca-4979-b06d-a5935efc8331",
+          "uiColor": "#FFD7BFBD"
+        },
+        {
+          "uuid": "e1ba64a7-298f-4601-9b50-ed364c452763",
+          "uiColor": "#FFB09B9A"
+        },
+        {
+          "uuid": "f37cdaa6-08a6-4e84-89c2-25b3730d40d9",
+          "uiColor": "#FF9A8281"
+        },
+        {
+          "uuid": "a5982d40-0dcc-4269-9a9b-4fdee476ceca",
+          "uiColor": "#FF756464"
+        },
+        {
+          "uuid": "1ec04c3f-1a65-4001-b831-42c6c61b4088",
+          "uiColor": "#FF655856"
+        },
+        {
+          "uuid": "4852223e-9c04-469f-8ca3-6ea381054617",
+          "uiColor": "#FF534746"
+        },
+        {
+          "uuid": "764d4259-04ec-4e65-bb46-c5c8d2fb0012",
+          "uiColor": "#FF4B3F3E"
+        },
+        {
+          "uuid": "f99aad5b-9a27-4b1d-8596-de6cdf566621",
+          "uiColor": "#FF3A2E2E"
+        }
+      ],
+      "Sulfur": [
+        {
+          "uuid": "61661335-4961-4460-98c8-b660dde37311",
+          "uiColor": "#FFF7DC93"
+        },
+        {
+          "uuid": "d7270647-2e49-4b7e-aefa-814cbd2a14b2",
+          "uiColor": "#FFE3BD67"
+        },
+        {
+          "uuid": "ee62ba42-2cf8-4ae0-8bbd-b9819b7cbe1a",
+          "uiColor": "#FFD4973C"
+        },
+        {
+          "uuid": "ebc70c93-fc52-4e88-a8aa-ff09abc045de",
+          "uiColor": "#FFBF8134"
+        },
+        {
+          "uuid": "eebcb8d1-fbad-4378-b6d1-fc0da4230117",
+          "uiColor": "#FFA86520"
+        },
+        {
+          "uuid": "492879e9-ddbb-47e6-80a3-9b69228aac04",
+          "uiColor": "#FF915118"
+        },
+        {
+          "uuid": "fd5f79d5-d288-4dbd-a102-66ede127626c",
+          "uiColor": "#FF863C0B"
+        },
+        {
+          "uuid": "3b4d264b-0072-4b1c-9474-73e62abe3431",
+          "uiColor": "#FF6E320B"
+        }
+      ],
+      "Chili": [
+        {
+          "uuid": "abc2bae2-286b-45c4-9394-1a9bce5a2fbf",
+          "uiColor": "#FFFFBA93"
+        },
+        {
+          "uuid": "9feb35ad-74df-40a3-b639-3a20dda86f96",
+          "uiColor": "#FFED9C7A"
+        },
+        {
+          "uuid": "d0f45b32-be6a-4d74-91c4-ea7ed1a2ca8c",
+          "uiColor": "#FFCE7153"
+        },
+        {
+          "uuid": "ef3bb78e-ea96-4a2a-90e8-4002d255c388",
+          "uiColor": "#FFB24F38"
+        },
+        {
+          "uuid": "a97812f1-a819-4067-9991-8fcf91012ed4",
+          "uiColor": "#FFA13C28"
+        },
+        {
+          "uuid": "e20a0ab6-4e46-497c-b517-b542b1bc7cd1",
+          "uiColor": "#FF7D2E1A"
+        },
+        {
+          "uuid": "fb06632a-6835-4c52-a896-1a048d74f634",
+          "uiColor": "#FF6E2215"
+        },
+        {
+          "uuid": "6ab5b694-7504-4353-9d99-d05740403f0d",
+          "uiColor": "#FF5E1C10"
+        }
+      ],
+      "Red": [
+        {
+          "uuid": "422408aa-f2df-463d-8e6f-2001a67032aa",
+          "uiColor": "#FFFFA293"
+        },
+        {
+          "uuid": "9b240ea4-b499-46be-be78-6b99f96e47a0",
+          "uiColor": "#FFEA8474"
+        },
+        {
+          "uuid": "677e5913-b019-4896-9b58-c21850d81196",
+          "uiColor": "#FFCE6960"
+        },
+        {
+          "uuid": "42c872b2-1ef7-4e13-bdb7-83704841d520",
+          "uiColor": "#FFB74A47"
+        },
+        {
+          "uuid": "c2bd72ce-150f-4cfc-9474-0f2335170b77",
+          "uiColor": "#FFA33431"
+        },
+        {
+          "uuid": "e75c0f9c-9f3e-4a79-a95b-1c171be111a9",
+          "uiColor": "#FF8F272A"
+        },
+        {
+          "uuid": "a9fdef17-117e-4b3e-a9f0-c3d09d58bb52",
+          "uiColor": "#FF731B1E"
+        },
+        {
+          "uuid": "cd170029-b6cb-4c05-a901-a397992158e4",
+          "uiColor": "#FF611719"
+        }
+      ],
+      "Pink": [
+        {
+          "uuid": "0b5c0530-856d-4ad0-9f9f-f2b977dd90ed",
+          "uiColor": "#FFFFBFC7"
+        },
+        {
+          "uuid": "5340217e-f1ab-42ab-9598-bf6f4a254568",
+          "uiColor": "#FFE5939D"
+        },
+        {
+          "uuid": "49f9f241-c0fd-43f3-a24b-8a598ff0f184",
+          "uiColor": "#FFD6707D"
+        },
+        {
+          "uuid": "9a0dbef3-2bd0-48a6-bd0b-ae0e72fce174",
+          "uiColor": "#FFC2505F"
+        },
+        {
+          "uuid": "68101886-efe0-44de-b95a-ef6eab4da57a",
+          "uiColor": "#FFA33D4B"
+        },
+        {
+          "uuid": "3b284d60-6ffa-4f12-a241-09a841628711",
+          "uiColor": "#FF912C3A"
+        },
+        {
+          "uuid": "1aaa5598-3f16-4497-b6b4-b4af66d6ec07",
+          "uiColor": "#FF78202C"
+        },
+        {
+          "uuid": "41839704-896f-4b29-a49f-c1d34ecee3cc",
+          "uiColor": "#FF661A25"
+        }
+      ],
+      "Orchid": [
+        {
+          "uuid": "df7eeaf4-8d2e-4c49-8bdd-5ce16847de53",
+          "uiColor": "#FFFFBFDE"
+        },
+        {
+          "uuid": "3e80bdc4-4e83-4578-acc8-190b6e53b86d",
+          "uiColor": "#FFD992B6"
+        },
+        {
+          "uuid": "3131f1c6-7b0a-4bcb-b690-bd1a54943b75",
+          "uiColor": "#FFC770A1"
+        },
+        {
+          "uuid": "acd2eae4-132f-4db6-9faa-4f06fe80f024",
+          "uiColor": "#FFA35481"
+        },
+        {
+          "uuid": "ae667c9f-4405-4d1b-b24d-37ae6bcd697d",
+          "uiColor": "#FF944371"
+        },
+        {
+          "uuid": "ebf8afb9-3ca1-4e35-aa43-135bf1a2aaec",
+          "uiColor": "#FF7F3760"
+        },
+        {
+          "uuid": "bb1ba359-6cfa-4b45-88fb-8248f6f182c5",
+          "uiColor": "#FF6B2B50"
+        },
+        {
+          "uuid": "f4d62207-d421-44e6-8430-cd92ba8edc56",
+          "uiColor": "#FF572341"
+        }
+      ],
+      "Purple": [
+        {
+          "uuid": "7bb5e651-8751-4feb-8d2f-67968e17fcdd",
+          "uiColor": "#FFEAB3F0"
+        },
+        {
+          "uuid": "7dbc34fa-312d-4260-bf2c-bd008fc80706",
+          "uiColor": "#FFC48BCC"
+        },
+        {
+          "uuid": "5ee076f2-e931-47c7-9850-f147c28b9b09",
+          "uiColor": "#FFAD6EB7"
+        },
+        {
+          "uuid": "bda4a8da-7741-463c-b30c-787081c7b9e2",
+          "uiColor": "#FF93579B"
+        },
+        {
+          "uuid": "8c0959e7-72b1-47af-8563-5ef635b2ba8b",
+          "uiColor": "#FF7B458C"
+        },
+        {
+          "uuid": "02d1b1e4-68a4-44ac-a29b-4f350f9496b7",
+          "uiColor": "#FF693670"
+        },
+        {
+          "uuid": "f53413a5-32a2-4dc7-993a-dbb6b2ac38bc",
+          "uiColor": "#FF5A2A5C"
+        },
+        {
+          "uuid": "16ee3817-bd40-4835-b1ca-06c18fa51066",
+          "uiColor": "#FF452047"
+        }
+      ],
+      "Violet": [
+        {
+          "uuid": "fba12ebe-4690-4e3e-9e7d-119c70479d31",
+          "uiColor": "#FFE1C5FA"
+        },
+        {
+          "uuid": "1e87438a-efcf-4922-bd59-d75eb6f2405f",
+          "uiColor": "#FFB59DD9"
+        },
+        {
+          "uuid": "8bb7f7b3-fb88-4aab-9d83-bfcda51ba2b3",
+          "uiColor": "#FF9D85BF"
+        },
+        {
+          "uuid": "c7ad7263-f71b-462f-891f-523fa838a7f5",
+          "uiColor": "#FF785CA1"
+        },
+        {
+          "uuid": "08ec0ed1-1611-41d4-a5ae-ba2eab0d9653",
+          "uiColor": "#FF654A8C"
+        },
+        {
+          "uuid": "7f990a84-aff5-4636-b903-054c9b72dfa4",
+          "uiColor": "#FF533978"
+        },
+        {
+          "uuid": "ef39d39e-9b1b-424f-875e-4bd0ecf46065",
+          "uiColor": "#FF3E295E"
+        },
+        {
+          "uuid": "4d945978-3bcd-4550-be5e-ceff12dc3c45",
+          "uiColor": "#FF32214C"
+        }
+      ],
+      "Azure": [
+        {
+          "uuid": "822c58fd-deb6-45f6-9bc6-ecc44832f22a",
+          "uiColor": "#FFCED4FC"
+        },
+        {
+          "uuid": "e97e2c9a-51dd-4a13-a7a2-5522d450b1bd",
+          "uiColor": "#FF9FA5CE"
+        },
+        {
+          "uuid": "f62c2834-54b0-443c-84cd-67efbbd9b884",
+          "uiColor": "#FF8189BA"
+        },
+        {
+          "uuid": "4bbb4606-9baf-47de-b4e3-55fbd81c94cb",
+          "uiColor": "#FF62659E"
+        },
+        {
+          "uuid": "6b3a534e-4004-440f-8ef0-57529ade7e53",
+          "uiColor": "#FF4B4C84"
+        },
+        {
+          "uuid": "4e0fa2e9-c522-43c7-9395-3dde4be08f64",
+          "uiColor": "#FF3D3E75"
+        },
+        {
+          "uuid": "92ed6bb7-78cb-455b-b44a-2056b6f4d563",
+          "uiColor": "#FF30315C"
+        },
+        {
+          "uuid": "64a10ef2-f352-4aa1-95a7-ec18a4c0c84d",
+          "uiColor": "#FF232345"
+        }
+      ],
+      "Storm": [
+        {
+          "uuid": "98749fe1-c345-40d9-848f-2eb728101c3c",
+          "uiColor": "#FFBEC0D4"
+        },
+        {
+          "uuid": "5fa0fbde-9f00-42f6-9804-beff86291f4b",
+          "uiColor": "#FF9AA7BF"
+        },
+        {
+          "uuid": "6a857902-12d6-4e16-8508-dccb57b534d6",
+          "uiColor": "#FF7F8FAD"
+        },
+        {
+          "uuid": "e00c7318-e5a0-41c6-ab53-d4f7847c89b0",
+          "uiColor": "#FF637496"
+        },
+        {
+          "uuid": "f91ca476-8a80-4461-86a1-7ede84d7cfec",
+          "uiColor": "#FF53617D"
+        },
+        {
+          "uuid": "de606cab-c9e8-453f-8a4f-724e0568bc36",
+          "uiColor": "#FF435066"
+        },
+        {
+          "uuid": "246d9b49-1654-4ea3-b3d0-4b61edd7a29b",
+          "uiColor": "#FF3C4357"
+        },
+        {
+          "uuid": "06ca12ba-50ae-4029-8c55-56b9e80d3f15",
+          "uiColor": "#FF2E3445"
+        }
+      ]
+    }
+  }

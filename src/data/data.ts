@@ -14,7 +14,7 @@ const data = {
   tieflings: [levistis],
   spellLists: [
     {
-      spells: 'Target_RayOfFrost',
+      spells: 'Projectile_RayOfFrost',
       uuid: '{{spelllist.ray_of_frost}}',
     },
     {

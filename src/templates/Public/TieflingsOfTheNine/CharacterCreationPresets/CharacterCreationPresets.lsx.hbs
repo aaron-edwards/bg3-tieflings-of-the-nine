@@ -5,7 +5,7 @@
         <node id="root">
             <children>
             {{#each tieflings as | tiefling |}}
-            {{#each progressionTable.table}}
+            {{#each tiefling.presets}}
                 <node id="CharacterCreationPreset">
                     <attribute id="CloseUpA" type="LSString" value="{{camera}}_Closeup_A_000"/>
                     <attribute id="CloseUpB" type="LSString" value="{{camera}}_Closeup_B_000"/>
