@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Races">
+        <node id="root">
+            <children>
+                {{#each tieflings}}
+                <node id="Race">
+                    <attribute id="Description" type="FixedString" value="{{description}}"/>
+                    <attribute id="DisplayName" type="FixedString" value="{{displayName}}"/>
+                    <attribute id="Name" type="FixedString" value="{{name}}"/>
+                    <attribute id="ParentGuid" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="{{progressionTable.uuid}}"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Tiefling"/>
+                    <attribute id="UUID" type="guid" value="{{uuid}}"/>
+                    <children>
+                        {{#each makeupColors}}
+                        <node id="MakeupColors">
+                            <attribute id="Object" type="guid" value="{{this}}"/>
+                        </node>
+                        {{/each}}  
+                        {{#each skinColors}}
+                        <node id="SkinColors">
+                            <attribute id="Object" type="guid" value="{{this}}"/>
+                        </node>
+                        {{/each}}  
+                        {{#each tags}}
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="{{this}}"/>
+                        </node>
+                        {{/each}}  
+                        {{#each tattooColors}}
+                        <node id="TattooColors">
+                            <attribute id="Object" type="guid" value="{{this}}"/>
+                        </node>
+                        {{/each}}
+                    </children>
+                </node>
+                {{/each}}
+            </children>
+        </node>
+    </region>
+</save>
