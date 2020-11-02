@@ -4,15 +4,20 @@
   "levistis.progression.id": "775aeb0e-c843-4cf8-99a8-6e30c4054a2f",
   "levistis.progression.1.id": "9853f1dd-ce2c-4d57-896b-29bef4d15c2a",
   "spelllist.ray_of_frost": "10b15189-c822-4f23-ad63-36701c9bef0e",
-  "levistis.progression.2.id": "0b2edac6-d0a0-413f-a1a6-222fc816a633",
+  "levistis.progression.3.id": "0b2edac6-d0a0-413f-a1a6-222fc816a633",
   "spelllist.armor_of_agathys": "f1ae407e-fb6e-4272-843a-bce16a058258",
   "levistis.preset.f.id": "fe7c795e-620b-40c4-926f-0e17c40153ac",
   "levistis.preset.m.id": "082856ed-c6e8-4f24-88f4-09a6f2283f4c",
+  "levistis.preset.f.root_template": "464a7622-6f93-454b-9066-c43037d945d8",
+  "levistis.preset.m.root_template": "ee64eff0-3a4a-48e3-8dd8-04910848a6de",
   "baalzebul.id": "cfbf9042-cde3-451b-a51b-53cdcbf1aed9",
   "baalzebul.progression.id": "4a9781cc-0614-417c-aa94-e394c5f050f7",
   "baalzebul.progression.1.id": "0f9c7858-880b-4572-85b5-7816a7c78ecc",
-  "baalzebul.progression.2.id": "8658574e-228d-4f68-89a6-90dc93500756",
+  "baalzebul.progression.3.id": "8658574e-228d-4f68-89a6-90dc93500756",
   "baalzebul.preset.f.id": "3796a92a-55e9-47ba-a44d-b4f1653807ea",
   "baalzebul.preset.m.id": "489d1236-b086-4b1f-9269-8992c6c7b627",
-  "spelllist.ray_of_sickness": "d0033ef5-4ad1-47f7-8464-045829dd170f"
+  "spelllist.thaumaturgy": "5eada6b7-d9a2-4ef2-8872-0dce047e458c",
+  "spelllist.ray_of_sickness": "d0033ef5-4ad1-47f7-8464-045829dd170f",
+  "baalzebul.preset.f.root_template": "1fe024d5-ee28-4347-8451-3930ed417bea",
+  "baalzebul.preset.m.root_template": "6c7e0063-1465-4b35-b2ab-205f905373de"
 }

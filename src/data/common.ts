@@ -10,6 +10,7 @@ export const tattooColors = [
   '2870c53c-ba6d-4eca-bfc4-d611dc05fac2',
   '3604fdeb-f956-424f-a073-899246213833',
 ];
+
 export const makeupColors = [
   '2d0b5625-5820-4e1e-a239-7c1ccfc2e1a0',
   'e8ca07c7-96cb-4fc6-872b-6c4fb0221c93',

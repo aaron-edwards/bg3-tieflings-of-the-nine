@@ -1,7 +1,7 @@
 import * as fs from 'fs';
-import { resolve, dirname } from 'path';
+import { resolve, dirname, basename } from 'path';
 
-import handlebars from 'handlebars';
+import handlebars, { HelperOptions } from 'handlebars';
 
 import data from './data/data';
 import uuids from './data/uuids.json';
@@ -23,6 +23,8 @@ async function* getFiles(dir: string): AsyncGenerator<string, null, unknown> {
 
 const src = resolve(__dirname, 'templates');
 const build = resolve(__dirname, '..', 'build');
+const buildMod = resolve(build, 'mod');
+const buildMerged = resolve(build, 'merged');
 
 const uuidRegex = /{{(.*)}}/;
 
@@ -61,11 +63,27 @@ function setUUIDs(data: any): {} {
   }, {});
 }
 
+const ifEq = (a: string, b: string, opts: HelperOptions) => {
+  if (a == b) {
+    // eslint-disable-next-line no-invalid-this
+    return opts.fn(this);
+  } else {
+    // eslint-disable-next-line no-invalid-this
+    return opts.inverse(this);
+  }
+};
+
+handlebars.registerHelper('if_eq', ifEq);
+
 async function run() {
   for await (const f of getFiles(src)) {
-    const outputFileTemp = f.replace(src, build);
+    console.log(f);
+    const outputFileTemp = basename(f).startsWith('_')
+      ? f.replace(src, buildMerged)
+      : f.replace(src, buildMod);
     const outputFile = outputFileTemp.replace('.hbs', '');
     await mkdir(dirname(outputFile), { recursive: true });
+
     const template = handlebars.compile((await readFile(f)).toString());
     writeFile(outputFile, template(setUUIDs(data)));
   }
