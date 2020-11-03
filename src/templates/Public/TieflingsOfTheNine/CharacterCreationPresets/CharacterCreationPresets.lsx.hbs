@@ -4,19 +4,28 @@
     <region id="CharacterCreationPresets">
         <node id="root">
             <children>
-            {{#each tieflings as | tiefling |}}
-            {{#each tiefling.presets}}
-                <node id="CharacterCreationPreset">
-                    <attribute id="CloseUpA" type="LSString" value="{{camera}}_Closeup_A_000"/>
-                    <attribute id="CloseUpB" type="LSString" value="{{camera}}_Closeup_B_000"/>
-                    <attribute id="Gender" type="uint8" value="{{#if_eq gender 'Male'}}0{{else}}1{{/if_eq}}"/>
-                    <attribute id="Overview" type="LSString" value="{{camera}}_Overview_A_000"/>
-                    <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
-                    <attribute id="RootTemplate" type="guid" value="{{rootTemplate.uuid}}"/>
-                    <attribute id="SubRaceUUID" type="guid" value="{{tiefling.uuid}}"/>
-                    <attribute id="UUID" type="guid" value="{{uuid}}"/>
-                </node>
-            {{/each}}
+            {{#each tieflings}}
+            <node id="CharacterCreationPreset">
+                <attribute id="CloseUpA" type="LSString" value="{{presets.female.camera}}_Closeup_A_000"/>
+                <attribute id="CloseUpB" type="LSString" value="{{presets.female.camera}}_Closeup_B_000"/>
+                <attribute id="Gender" type="uint8" value="1"/>
+                <attribute id="Overview" type="LSString" value="{{presets.female.camera}}_Overview_A_000"/>
+                <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
+                <attribute id="RootTemplate" type="guid" value="{{presets.female.root}}"/>
+                <attribute id="SubRaceUUID" type="guid" value="{{uuid}}"/>
+                <attribute id="UUID" type="guid" value="{{presets.female.uuid}}"/>
+            </node>
+
+            <node id="CharacterCreationPreset">
+                <attribute id="CloseUpA" type="LSString" value="{{presets.male.camera}}_Closeup_A_000"/>
+                <attribute id="CloseUpB" type="LSString" value="{{presets.male.camera}}_Closeup_B_000"/>
+                <attribute id="Gender" type="uint8" value="0"/>
+                <attribute id="Overview" type="LSString" value="{{presets.male.camera}}_Overview_A_000"/>
+                <attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-a181-c4540cf38197"/>
+                <attribute id="RootTemplate" type="guid" value="{{presets.male.root}}"/>
+                <attribute id="SubRaceUUID" type="guid" value="{{uuid}}"/>
+                <attribute id="UUID" type="guid" value="{{presets.male.uuid}}"/>
+            </node>
             {{/each}} 
             </children>
         </node>

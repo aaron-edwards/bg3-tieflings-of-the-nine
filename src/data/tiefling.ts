@@ -33,29 +33,26 @@ export default ({ name, description, levels, skinColors }: TieflingOptions) => {
     tattooColors,
     makeupColors,
     skinColors: skinColors || [],
-    presets: [
-      {
+
+    presets: {
+      female: {
         camera: 'TIF_F_Camera',
         uuid: uuidKey('preset.f.id'),
         gender: 'Female',
-        rootTemplate: {
-          uuid: uuidKey('preset.f.root_template'),
-          visualResourceID: '0a902841-1c5b-7acc-9620-91b284a65436',
-          icon: '0a902841-1c5b-7acc-9620-91b284a65436-_(Icon_Tiefling_Female)',
-          parent: '619e1ca1-2467-42a3-abb2-627e8ce527c3',
-        },
+        root: uuidKey('preset.f.root_template'),
+        visualResourceID: '0a902841-1c5b-7acc-9620-91b284a65436',
+        icon: '0a902841-1c5b-7acc-9620-91b284a65436-_(Icon_Tiefling_Female)',
+        parent: '619e1ca1-2467-42a3-abb2-627e8ce527c3',
       },
-      {
+      male: {
         camera: 'TIF_M_Camera',
         uuid: uuidKey('preset.m.id'),
         gender: 'Male',
-        rootTemplate: {
-          uuid: uuidKey('preset.m.root_template'),
-          visualResourceID: 'a178a41d-05c3-3bc8-4879-15d2effe3300',
-          icon: 'a178a41d-05c3-3bc8-4879-15d2effe3300-_(Icon_Tiefling_Male)',
-          parent: '6f881126-478f-43a4-ba02-c024cf03a212',
-        },
+        root: uuidKey('preset.m.root_template'),
+        visualResourceID: 'a178a41d-05c3-3bc8-4879-15d2effe3300',
+        icon: 'a178a41d-05c3-3bc8-4879-15d2effe3300-_(Icon_Tiefling_Male)',
+        parent: '6f881126-478f-43a4-ba02-c024cf03a212',
       },
-    ],
+    },
   };
 };
