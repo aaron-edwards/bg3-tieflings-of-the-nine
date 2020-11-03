@@ -1,15 +1,15 @@
 {
   "mod": "e9f4b3e9-2dd1-4c9b-9b0d-ff4b04999f80",
-  "spelllist.ray_of_frost": "10b15189-c822-4f23-ad63-36701c9bef0e",
-  "spelllist.armor_of_agathys": "f1ae407e-fb6e-4272-843a-bce16a058258",
+
   "baalzebul.id": "cfbf9042-cde3-451b-a51b-53cdcbf1aed9",
   "baalzebul.progression.id": "4a9781cc-0614-417c-aa94-e394c5f050f7",
   "baalzebul.progression.1.id": "0f9c7858-880b-4572-85b5-7816a7c78ecc",
   "baalzebul.progression.3.id": "8658574e-228d-4f68-89a6-90dc93500756",
   "baalzebul.preset.f.id": "3796a92a-55e9-47ba-a44d-b4f1653807ea",
   "baalzebul.preset.m.id": "489d1236-b086-4b1f-9269-8992c6c7b627",
-  "spelllist.thaumaturgy": "5eada6b7-d9a2-4ef2-8872-0dce047e458c",
-  "spelllist.ray_of_sickness": "d0033ef5-4ad1-47f7-8464-045829dd170f",
+  "baalzebul.preset.f.root_template": "e6fb6c1d-7315-4657-94a8-d43e75e84800",
+  "baalzebul.preset.m.root_template": "27c9e5fe-6407-425c-bb3e-f3d7e28deb28",
+  
   "dispater.id": "6106c7d7-a13b-4fe0-a792-30029c1df9d7",
   "dispater.progression.id": "eb7dde10-4bba-460c-b7c9-aeb2800b8048",
   "dispater.progression.1.id": "2fff892e-89ae-4504-9e09-bb7e378e54ba",
@@ -17,10 +17,20 @@
   "spelllist.disguise_self": "191c87f4-5fa4-4a10-ac55-461798635a69",
   "dispater.preset.f.id": "9f6b42b4-ddc7-4e42-a01c-6251f4b7b7e9",
   "dispater.preset.m.id": "6077d5a2-c263-49b1-9b2b-16dd9d405e69",
+  "dispater.preset.f.root_template": "129201b0-bcb9-49d8-9123-992321475917",
+  "dispater.preset.m.root_template": "bfb338d5-e4d5-42c1-8fee-1c617e8de3d0",
+
   "levistus.id": "f1f228d5-bfc0-4f1c-82f9-e6e0e7b57461",
   "levistus.progression.id": "6e6f5011-5c4e-4cb3-b466-75f5fb6faf80",
   "levistus.progression.1.id": "109112e3-9154-495c-9c8c-aad65b14130f",
   "levistus.progression.3.id": "a9d1501c-42ca-411b-8347-42a6826d539b",
   "levistus.preset.f.id": "11e5eb30-1b3e-4d29-99f4-ce02b8cc6832",
-  "levistus.preset.m.id": "d1c288ec-fbbf-4ec9-9b39-cc1a85da0da7"
+  "levistus.preset.m.id": "d1c288ec-fbbf-4ec9-9b39-cc1a85da0da7",
+  "levistus.preset.f.root_template": "c30dd686-7892-4e8a-8918-7b880c1d1c64",
+  "levistus.preset.m.root_template": "05f13d68-d8d8-45ce-b458-fab609491e31",
+
+  "spelllist.thaumaturgy": "5eada6b7-d9a2-4ef2-8872-0dce047e458c",
+  "spelllist.ray_of_sickness": "d0033ef5-4ad1-47f7-8464-045829dd170f",
+  "spelllist.ray_of_frost": "10b15189-c822-4f23-ad63-36701c9bef0e",
+  "spelllist.armor_of_agathys": "f1ae407e-fb6e-4272-843a-bce16a058258"
 }

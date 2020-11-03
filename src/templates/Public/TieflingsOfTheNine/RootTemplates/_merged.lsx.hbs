@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+            {{#each tieflings as | tiefling |}}
+            {{#each tiefling.presets}}
+                <node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="{{rootTemplate.visualResourceID}}" />
+					<attribute id="Icon" type="FixedString" value="{{rootTemplate.icon}}" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="{{rootTemplate.uuid}}" />
+					<attribute id="Name" type="LSString" value="Tieflings_{{gender}}_{{tiefling.name}}_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="{{rootTemplate.parent}}" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroTiefling{{gender}}" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741859" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+            {{/each}}
+            {{/each}}
+{{!-- 				
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436" />
+					<attribute id="Icon" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436-_(Icon_Tiefling_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aadac54f-38c0-4486-b45f-01c30e2e9323" />
+					<attribute id="Name" type="LSString" value="Tieflings_Male_Baalzebul_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="619e1ca1-2467-42a3-abb2-627e8ce527c3" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroTieflingMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741859" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436" />
+					<attribute id="Icon" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436-_(Icon_Tiefling_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aadac54f-38c0-4486-b45f-01c30e2e9323" />
+					<attribute id="Name" type="LSString" value="Tieflings_Female_Levistus_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="619e1ca1-2467-42a3-abb2-627e8ce527c3" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroTieflingFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741859" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436" />
+					<attribute id="Icon" type="FixedString" value="0a902841-1c5b-7acc-9620-91b284a65436-_(Icon_Tiefling_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aadac54f-38c0-4486-b45f-01c30e2e9323" />
+					<attribute id="Name" type="LSString" value="Tieflings_Male_Levistus_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="619e1ca1-2467-42a3-abb2-627e8ce527c3" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroTieflingMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741859" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node> --}}
+			</children>
+		</node>
+	</region>
+</save>
