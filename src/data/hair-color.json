@@ -1,0 +1,500 @@
+{
+  "HAIR_Color_Blonde_0": {
+    "name": "HAIR_Color_Blonde_0",
+    "uiColor": "#FFBFA48C",
+    "uuid": "b323f858-8991-4700-9a08-11725a00f784",
+    "material": "b6d28fbc-3784-ea76-46cc-50365ad2ab7e"
+  },
+  "HAIR_Color_Blonde_1": {
+    "name": "HAIR_Color_Blonde_1",
+    "uiColor": "#FFA1866F",
+    "uuid": "af75d8af-7cff-489e-a7fe-fb23df358edc",
+    "material": "742499c5-9a8c-ce4c-974f-78f3d652e10e"
+  },
+  "HAIR_Color_Blonde_2": {
+    "name": "HAIR_Color_Blonde_2",
+    "uiColor": "#FF786451",
+    "uuid": "557569e5-9867-41b7-ae9f-acc2859ddfad",
+    "material": "ad89c5e6-b067-7d77-f4aa-22e5e0c3cbca"
+  },
+  "HAIR_Color_BlondeAsh_0": {
+    "name": "HAIR_Color_BlondeAsh_0",
+    "uiColor": "#FFC4B6B1",
+    "uuid": "033dd6a4-c20d-4b24-997d-9262d6700e0e",
+    "material": "89b8facf-d014-0672-098e-257de8fa8bd6"
+  },
+  "HAIR_Color_BlondeAsh_1": {
+    "name": "HAIR_Color_BlondeAsh_1",
+    "uiColor": "#FFA39794",
+    "uuid": "5bb551bd-a0fc-45e9-9f6b-6aefd765bcb3",
+    "material": "91b04348-8388-2db6-a6a5-7fd19c5f0659"
+  },
+  "HAIR_Color_BlondeAsh_2": {
+    "name": "HAIR_Color_BlondeAsh_2",
+    "uiColor": "#FF8C7E7B",
+    "uuid": "e4c2203a-9bcc-4112-a1a4-5a123463b77f",
+    "material": "c260678c-fa02-b112-ee38-2f6dd56f01be"
+  },
+  "HAIR_Color_BlondeGold_0": {
+    "name": "HAIR_Color_BlondeGold_0",
+    "uiColor": "#FFD9B282",
+    "uuid": "4170812c-d512-4160-b08b-a0efebe917d7",
+    "material": "8ff86e4c-d2e3-3fa5-808e-229facb49e61"
+  },
+  "HAIR_Color_BlondeGold_1": {
+    "name": "HAIR_Color_BlondeGold_1",
+    "uiColor": "#FFBF9868",
+    "uuid": "23941ac1-3a39-4472-b98e-7e3886b34e56",
+    "material": "89792c7e-846b-1ebd-f383-3466cfcd50c5"
+  },
+  "HAIR_Color_BlondeGold_2": {
+    "name": "HAIR_Color_BlondeGold_2",
+    "uiColor": "#FFB58953",
+    "uuid": "89f69ab1-4861-4521-b60f-1f96665a1aba",
+    "material": "5e2c1932-3480-7ae8-f7a5-0639944c0fe0"
+  },
+  "HAIR_Color_Brown_0": {
+    "name": "HAIR_Color_Brown_0",
+    "uiColor": "#FF876A4D",
+    "uuid": "b63b60fe-2ce1-4a19-8f2f-cec8b7a78857",
+    "material": "a815325b-e275-6003-df0c-c09f1a1e4785"
+  },
+  "HAIR_Color_Brown_1": {
+    "name": "HAIR_Color_Brown_1",
+    "uiColor": "#FF634930",
+    "uuid": "92bf31de-42d7-48c1-9b1c-e422efa3354d",
+    "material": "b5f83d7c-6b58-843b-21a2-8f79097e2eaa"
+  },
+  "HAIR_Color_Brown_2": {
+    "name": "HAIR_Color_Brown_2",
+    "uiColor": "#FF452E18",
+    "uuid": "8e2ae6ed-095d-4b24-afe5-0fcb3107d086",
+    "material": "9cd142d3-b3b1-cf51-e328-e81eea04aacd"
+  },
+  "HAIR_Color_Brown_3": {
+    "name": "HAIR_Color_Brown_3",
+    "uiColor": "#FF2B2316",
+    "uuid": "80a78af9-f811-4e2d-9b65-306911c0b7df",
+    "material": "850616b0-491f-add8-a2a0-3fef9aada7d5"
+  },
+  "HAIR_Color_BlackBrown": {
+    "name": "HAIR_Color_BlackBrown",
+    "uiColor": "#FF241101",
+    "uuid": "c0bd8f62-07ab-48ca-8586-e7a21253036a",
+    "material": "90a01929-a5ef-01a7-c22d-000245888f0e"
+  },
+  "HAIR_Color_BlackRaven": {
+    "name": "HAIR_Color_BlackRaven",
+    "uiColor": "#FF1E1E24",
+    "uuid": "8309f4ac-c2fc-43d8-9382-7e30ff567c5c",
+    "material": "f9364368-53d2-6378-f585-e54b7de43858"
+  },
+  "HAIR_Color_BlackRed": {
+    "name": "HAIR_Color_BlackRed",
+    "uiColor": "#FF240303",
+    "uuid": "be3f1cfe-8f17-4cc3-b5cd-f7c79ee85985",
+    "material": "65fa1b9a-f151-bad3-f9f4-ee156a897812"
+  },
+  "HAIR_Color_BlackNeutral": {
+    "name": "HAIR_Color_BlackNeutral",
+    "uiColor": "#FF1C1C1C",
+    "uuid": "497fa07c-67ff-4173-958d-f21e915c53e8",
+    "material": "72f56d86-89a0-d8e3-b3ba-c35c2cee61bc"
+  },
+  "HAIR_Color_BrownAuburn_0": {
+    "name": "HAIR_Color_BrownAuburn_0",
+    "uiColor": "#FF99643F",
+    "uuid": "62f2a618-80b9-4f23-94da-09bd0b5bc429",
+    "material": "1ca9b22a-11e8-6b46-f96f-903ab4ec723c"
+  },
+  "HAIR_Color_BrownAuburn_1": {
+    "name": "HAIR_Color_BrownAuburn_1",
+    "uiColor": "#FF754B2E",
+    "uuid": "e83eaf0c-61fe-496d-94da-842371aaf840",
+    "material": "41974921-044d-adae-9e37-9ecc6aedcb14"
+  },
+  "HAIR_Color_BrownAuburn_2": {
+    "name": "HAIR_Color_BrownAuburn_2",
+    "uiColor": "#FF593922",
+    "uuid": "9f867eab-0f5b-4f55-961f-0f93df6a5910",
+    "material": "5cc279c1-4365-f196-7541-54523f96af0a"
+  },
+  "HAIR_Color_BrownAuburn_3": {
+    "name": "HAIR_Color_BrownAuburn_3",
+    "uiColor": "#FF412D1F",
+    "uuid": "f8c09e25-59ac-4395-b89f-d979a3a55ca7",
+    "material": "943c598c-1492-88be-d908-fc607d853ce3"
+  },
+  "HAIR_Color_BrownDrab_0": {
+    "name": "HAIR_Color_BrownDrab_0",
+    "uiColor": "#FF6E6455",
+    "uuid": "97ad3f74-dd90-46f1-8a54-712fa81831a1",
+    "material": "95becf49-95fc-658d-21d5-788663470aed"
+  },
+  "HAIR_Color_BrownDrab_1": {
+    "name": "HAIR_Color_BrownDrab_1",
+    "uiColor": "#FF635747",
+    "uuid": "caf9d016-44a8-4ea4-81fc-4eae8bb76417",
+    "material": "d4f90a65-1d2e-59b2-5919-267b7fdaab50"
+  },
+  "HAIR_Color_BrownDrab_2": {
+    "name": "HAIR_Color_BrownDrab_2",
+    "uiColor": "#FF514637",
+    "uuid": "40006905-ec46-4252-8f8b-5af72ba120fb",
+    "material": "55b65d3a-dd90-9e15-3f5e-609b175ffa51"
+  },
+  "HAIR_Color_BrownDrab_3": {
+    "name": "HAIR_Color_BrownDrab_3",
+    "uiColor": "#FF423A2F",
+    "uuid": "16dff123-c340-48dd-8202-41048f2d1f90",
+    "material": "6d2163b8-58fa-af9c-257e-4cdc31dbeca1"
+  },
+  "HAIR_Color_Ginger_0": {
+    "name": "HAIR_Color_Ginger_0",
+    "uiColor": "#FFA65937",
+    "uuid": "1f0ffc1e-6675-4cdb-bae9-286794eb2e60",
+    "material": "cbef989a-ae10-8b61-1b5d-8b52255db4d8"
+  },
+  "HAIR_Color_Ginger_1": {
+    "name": "HAIR_Color_Ginger_1",
+    "uiColor": "#FF944729",
+    "uuid": "1c2e7f58-bced-4020-ba5d-dcf9ec135204",
+    "material": "618d752c-e810-403f-ea4e-7f1de9016e9f"
+  },
+  "HAIR_Color_Ginger_2": {
+    "name": "HAIR_Color_Ginger_2",
+    "uiColor": "#FF753116",
+    "uuid": "bfd5fd45-a1f2-4e03-a3ab-7b202c2abe25",
+    "material": "8c3c3a13-4e32-d169-2af8-7f5c131e5e91"
+  },
+  "HAIR_Color_Ginger_3": {
+    "name": "HAIR_Color_Ginger_3",
+    "uiColor": "#FF401B07",
+    "uuid": "009f5e0f-d094-4312-889e-4015d78eb152",
+    "material": "3b6d0dc8-6141-c54d-392f-1bf7fed0ac37"
+  },
+  "HAIR_Color_Grey_0": {
+    "name": "HAIR_Color_Grey_0",
+    "uiColor": "#FFB2B2B2",
+    "uuid": "3cdbe289-2ea3-416f-bc40-1fb86d5142c4",
+    "material": "2e64851e-71c3-93c4-4cab-5ba9dd411984"
+  },
+  "HAIR_Color_Grey_1": {
+    "name": "HAIR_Color_Grey_1",
+    "uiColor": "#FF8F8C85",
+    "uuid": "f3cbce6e-9ea8-48ae-a927-2957df882221",
+    "material": "b89fc2ed-2441-f78c-4fff-3c6cb40fc786"
+  },
+  "HAIR_Color_Grey_2": {
+    "name": "HAIR_Color_Grey_2",
+    "uiColor": "#FF5E5E5E",
+    "uuid": "760585e0-dc79-4264-9c3e-96558cfd4329",
+    "material": "f801db27-bf02-61c7-d7bd-de68322b74ad"
+  },
+  "HAIR_Color_Grey_3": {
+    "name": "HAIR_Color_Grey_3",
+    "uiColor": "#FF424140",
+    "uuid": "79bf1c8d-a889-436e-b392-33d2ab1240d6",
+    "material": "076f561c-76e7-9684-e483-a8613a845f8a"
+  },
+  "HAIR_Color_White_0": {
+    "name": "HAIR_Color_White_0",
+    "uiColor": "#FFBDBDBD",
+    "uuid": "6c36963e-7e46-45a0-b3ad-2650de2a75d0",
+    "material": "2891393d-0a01-022c-7ff9-56ea1841dc9c"
+  },
+  "HAIR_Color_White_1": {
+    "name": "HAIR_Color_White_1",
+    "uiColor": "#FFA19F9D",
+    "uuid": "dc61ce23-7b63-45f9-a372-50a094950132",
+    "material": "f262fcf6-b76c-0808-b4be-1ceb7558a574"
+  },
+  "HAIR_Color_Red_0": {
+    "name": "HAIR_Color_Red_0",
+    "uiColor": "#FFD48383",
+    "uuid": "88d8069e-1d18-41d5-9242-270415c31e11",
+    "material": "afe561bd-0624-5f33-22c3-5e93d21c4a39"
+  },
+  "HAIR_Color_Red_1": {
+    "name": "HAIR_Color_Red_1",
+    "uiColor": "#FFC55D65",
+    "uuid": "7ea76b87-a77d-46e5-8b14-a08d08cdd54b",
+    "material": "3620cef8-d3db-8630-3b83-990897897bea"
+  },
+  "HAIR_Color_Red_2": {
+    "name": "HAIR_Color_Red_2",
+    "uiColor": "#FF9E3F3F",
+    "uuid": "113133e8-0b3d-41a8-80a0-439d98a23783",
+    "material": "ee839053-c0cc-a97c-5aba-bc670289bb6b"
+  },
+  "HAIR_Color_Red_3": {
+    "name": "HAIR_Color_Red_3",
+    "uiColor": "#FF870E18",
+    "uuid": "71ca4d73-a1ea-47fb-ac7c-5d92457280de",
+    "material": "1a21505f-c391-9e6e-9c9e-eb20c6402615"
+  },
+  "HAIR_Color_Red_4": {
+    "name": "HAIR_Color_Red_4",
+    "uiColor": "#FF6E0E18",
+    "uuid": "542c91b0-4a1b-4668-ac40-4052a17ecb17",
+    "material": "41a1e5a3-b12b-cf38-a4bf-25cf55a23477"
+  },
+  "HAIR_Color_Violet_0": {
+    "name": "HAIR_Color_Violet_0",
+    "uiColor": "#FF907EA5",
+    "uuid": "269d447d-ba30-4259-b807-55faaee86608",
+    "material": "c49e6efb-a0ce-5a55-a29e-aa3c805983ca"
+  },
+  "HAIR_Color_Violet_1": {
+    "name": "HAIR_Color_Violet_1",
+    "uiColor": "#FF8C70A9",
+    "uuid": "c2b4a0b2-5716-42e0-862d-77607cbcdc7f",
+    "material": "5a85fc1b-4f5e-42ac-afc1-9bc6ccf3ca0a"
+  },
+  "HAIR_Color_Violet_2": {
+    "name": "HAIR_Color_Violet_2",
+    "uiColor": "#FF735591",
+    "uuid": "9c902210-a676-4c60-a1ab-859010b51d83",
+    "material": "1fa98454-e50d-fc61-201a-d1bb7b0e4986"
+  },
+  "HAIR_Color_Violet_3": {
+    "name": "HAIR_Color_Violet_3",
+    "uiColor": "#FF623581",
+    "uuid": "728548a2-bfe0-416e-bf24-deabc048fd72",
+    "material": "08263aff-6cf6-ab75-e382-d8498847f9ff"
+  },
+  "HAIR_Color_Violet_5": {
+    "name": "HAIR_Color_Violet_5",
+    "uiColor": "#FF3E2155",
+    "uuid": "cf363592-ea9a-4802-a67d-6ab979392e72",
+    "material": "908b9ff2-9c76-5591-4f4b-b085b89707fe"
+  },
+  "HAIR_Color_Green_1": {
+    "name": "HAIR_Color_Green_1",
+    "uiColor": "#FF529B7B",
+    "uuid": "cd90dcd8-382f-4d03-add6-0ba5f3a4c4b9",
+    "material": "67936652-37da-7a2e-b1ec-673b8be6cea7"
+  },
+  "HAIR_Color_Green_2": {
+    "name": "HAIR_Color_Green_2",
+    "uiColor": "#FF39785C",
+    "uuid": "b9d18f03-a0cc-4bb2-98bc-8fe4fe9cf018",
+    "material": "670c389c-3259-feeb-c9c7-170158ae0c57"
+  },
+  "HAIR_Color_Green_3": {
+    "name": "HAIR_Color_Green_3",
+    "uiColor": "#FF0E663E",
+    "uuid": "2b75ba8f-076b-4186-bfe7-d8eaf9959159",
+    "material": "ab2b219e-afc6-98c3-b1d6-abb1e5c4fad4"
+  },
+  "HAIR_Color_Green_4": {
+    "name": "HAIR_Color_Green_4",
+    "uiColor": "#FF0A452A",
+    "uuid": "79fb8506-6c49-4550-9085-cbca2a3db99c",
+    "material": "c8358986-0922-8e70-6a2a-139c588be1ad"
+  },
+  "HAIR_Color_Lime_0": {
+    "name": "HAIR_Color_Lime_0",
+    "uiColor": "#FF9EC79D",
+    "uuid": "3f272a2f-f562-4553-a80b-3cf9e95f04a2",
+    "material": "baa06c96-6f65-cccb-d6ed-ab54795ba2f3"
+  },
+  "HAIR_Color_Lime_1": {
+    "name": "HAIR_Color_Lime_1",
+    "uiColor": "#FF68AB66",
+    "uuid": "20be1834-f155-46bd-a04f-610c596936bb",
+    "material": "a481f80e-1c92-967a-89cd-1488981c70e6"
+  },
+  "HAIR_Color_Lime_2": {
+    "name": "HAIR_Color_Lime_2",
+    "uiColor": "#FF4D994B",
+    "uuid": "b48ea049-b111-4529-ba79-193e269c6b11",
+    "material": "b5ac7850-c34c-ef37-feec-133f964a1b4c"
+  },
+  "HAIR_Color_Lime_3": {
+    "name": "HAIR_Color_Lime_3",
+    "uiColor": "#FF3B7A39",
+    "uuid": "1a9fcf9b-da30-4736-a8f6-949b677c39fc",
+    "material": "63928c02-00a4-dd2d-ca0c-763195dced3a"
+  },
+  "HAIR_Color_Lime_4": {
+    "name": "HAIR_Color_Lime_4",
+    "uiColor": "#FF203B1F",
+    "uuid": "b581eaf4-9232-47e2-83fa-09b0573abe15",
+    "material": "536e441f-3fee-c04a-9698-6608ebe70824"
+  },
+  "HAIR_Color_Orange_0": {
+    "name": "HAIR_Color_Orange_0",
+    "uiColor": "#FFB88B7E",
+    "uuid": "ed9bb885-5a74-46dc-8138-72bd88f4a383",
+    "material": "f3233cb1-106a-4ef7-e3d3-cfdfd5d33f69"
+  },
+  "HAIR_Color_Orange_1": {
+    "name": "HAIR_Color_Orange_1",
+    "uiColor": "#FFC4836D",
+    "uuid": "605b543a-7d1b-49f2-b628-3713dceb2874",
+    "material": "e5bc2bfd-a28e-86d4-3389-ac79287587aa"
+  },
+  "HAIR_Color_Orange_2": {
+    "name": "HAIR_Color_Orange_2",
+    "uiColor": "#FFAD684E",
+    "uuid": "5074c26c-bd00-42ff-9e99-3d352f980932",
+    "material": "6e99d44a-c9a1-f0a6-fab9-edceae53f96f"
+  },
+  "HAIR_Color_Orange_3": {
+    "name": "HAIR_Color_Orange_3",
+    "uiColor": "#FFAC5335",
+    "uuid": "2295f91c-c7ca-473c-bf4a-4538a175de85",
+    "material": "1d2289f5-439c-8b0d-56c8-6d9bc21f5387"
+  },
+  "HAIR_Color_Orange_4": {
+    "name": "HAIR_Color_Orange_4",
+    "uiColor": "#FF8D4124",
+    "uuid": "8d6885cc-88ac-4dee-b4f6-d85ddcf8d841",
+    "material": "a12b5b3e-543b-f28f-1bed-fcca75040fda"
+  },
+  "HAIR_Color_Pink_0": {
+    "name": "HAIR_Color_Pink_0",
+    "uiColor": "#FFB87E8E",
+    "uuid": "7c2dff4a-1d85-4ddb-afd2-92b851d4bc41",
+    "material": "402a3220-42a5-3a94-b4b4-2714685b33d3"
+  },
+  "HAIR_Color_Pink_1": {
+    "name": "HAIR_Color_Pink_1",
+    "uiColor": "#FFB86D83",
+    "uuid": "aa3100d5-af4c-4425-9771-488e847e5c65",
+    "material": "ca308ba6-58ab-029a-1a7b-5c5f69d53948"
+  },
+  "HAIR_Color_Pink_2": {
+    "name": "HAIR_Color_Pink_2",
+    "uiColor": "#FFAA4C6B",
+    "uuid": "3f89e271-389f-4ee6-9281-3c93722417d9",
+    "material": "6d1fc9fe-cf12-f88f-322b-0aac86d6a40c"
+  },
+  "HAIR_Color_Pink_3": {
+    "name": "HAIR_Color_Pink_3",
+    "uiColor": "#FF912751",
+    "uuid": "6d2bfeb7-9468-4bd7-87d7-654067fc8011",
+    "material": "e08923b6-f380-e1ac-f607-69dd68cfd5ca"
+  },
+  "HAIR_Color_Pink_4": {
+    "name": "HAIR_Color_Pink_4",
+    "uiColor": "#FF661B39",
+    "uuid": "e033a49c-c3a5-438a-aea5-724c4ea73836",
+    "material": "5335aec7-6ff5-f4e1-f727-76f9ba10b93a"
+  },
+  "HAIR_Color_Purple_0": {
+    "name": "HAIR_Color_Purple_0",
+    "uiColor": "#FFA37C99",
+    "uuid": "36eb8744-2d33-4897-9bc0-b2afad3bbdd1",
+    "material": "8eeeaed3-c31d-66a7-635c-feafbe6fe059"
+  },
+  "HAIR_Color_Purple_1": {
+    "name": "HAIR_Color_Purple_1",
+    "uiColor": "#FFAC6F9E",
+    "uuid": "adcc5dd2-3595-41b2-b13f-7dadaf25a1ce",
+    "material": "268bd686-319f-f07d-f1bb-5de8b46d7d9a"
+  },
+  "HAIR_Color_Purple_2": {
+    "name": "HAIR_Color_Purple_2",
+    "uiColor": "#FF9F558F",
+    "uuid": "4726dc5b-ad1d-4c52-97f3-31ddbde25e66",
+    "material": "906da165-17de-c6d5-76e5-5c0fde4f50ac"
+  },
+  "HAIR_Color_Purple_3": {
+    "name": "HAIR_Color_Purple_3",
+    "uiColor": "#FF873376",
+    "uuid": "96eb0741-de14-4588-9b9f-b5d916d84563",
+    "material": "89eadcce-2c16-ab62-662e-652fceb1eeeb"
+  },
+  "HAIR_Color_Purple_4": {
+    "name": "HAIR_Color_Purple_4",
+    "uiColor": "#FF5B1D4F",
+    "uuid": "d7956c24-0418-4773-ab69-ec0fe1e0e811",
+    "material": "b4bd9bdd-6e77-dcfa-909c-f96858258a40"
+  },
+  "HAIR_Color_Yellow_0": {
+    "name": "HAIR_Color_Yellow_0",
+    "uiColor": "#FFA09272",
+    "uuid": "06d57f9e-0a9f-4632-866c-a97ab9b595b1",
+    "material": "025e907b-4d2e-f6cb-cb40-9c2cd56bae06"
+  },
+  "HAIR_Color_Yellow_1": {
+    "name": "HAIR_Color_Yellow_1",
+    "uiColor": "#FF9D8A50",
+    "uuid": "1dfe8a25-7308-44f5-9032-376576bd2588",
+    "material": "fba231d5-1565-281b-fd10-b06d7e7ec9e1"
+  },
+  "HAIR_Color_Yellow_2": {
+    "name": "HAIR_Color_Yellow_2",
+    "uiColor": "#FF87753E",
+    "uuid": "2bd2c034-cc75-4ebf-b4cb-4f6574641e4e",
+    "material": "cb7b6923-2532-0791-98bf-295bef2d6095"
+  },
+  "HAIR_Color_Yellow_3": {
+    "name": "HAIR_Color_Yellow_3",
+    "uiColor": "#FF7A632D",
+    "uuid": "83611fa3-1633-4aa6-8235-247e4ac65208",
+    "material": "8ef57036-8877-d444-a311-ae6c4409d617"
+  },
+  "HAIR_Color_Yellow_4": {
+    "name": "HAIR_Color_Yellow_4",
+    "uiColor": "#FF644C1B",
+    "uuid": "83d20e67-94d3-4a41-8c71-310bc7f5e367",
+    "material": "50a18a65-372f-cb37-04ac-27d2f390da9d"
+  },
+  "HAIR_Color_Blue_0": {
+    "name": "HAIR_Color_Blue_0",
+    "uiColor": "#FF7F80A8",
+    "uuid": "8cd63f83-6c3e-472a-9ca2-7ebf44c29124",
+    "material": "996b73fe-1e89-b8dc-45a8-f0293e0fbe7e"
+  },
+  "HAIR_Color_Blue_1": {
+    "name": "HAIR_Color_Blue_1",
+    "uiColor": "#FF7073B2",
+    "uuid": "93fe7f6a-9992-4459-967b-3a1c0096b538",
+    "material": "5b166aea-29f3-8185-ccf2-38a526ba65fa"
+  },
+  "HAIR_Color_Blue_2": {
+    "name": "HAIR_Color_Blue_2",
+    "uiColor": "#FF515597",
+    "uuid": "e9723594-11eb-490d-a98e-f937d5593165",
+    "material": "b393f6cf-82bd-d967-494b-d59e3b4603fd"
+  },
+  "HAIR_Color_Blue_3": {
+    "name": "HAIR_Color_Blue_3",
+    "uiColor": "#FF383C77",
+    "uuid": "74c34933-5b3e-409e-a407-2d975ff92288",
+    "material": "7844a61d-b869-5ee3-5afa-7f1152e94255"
+  },
+  "HAIR_Color_Blue_4": {
+    "name": "HAIR_Color_Blue_4",
+    "uiColor": "#FF24264C",
+    "uuid": "05c8cdc9-9c2f-440f-9d47-370b1c7ac123",
+    "material": "4a8acfaa-aedd-f680-8a8c-c1fd222fcb48"
+  },
+  "HAIR_Color_Aqua_3": {
+    "name": "HAIR_Color_Aqua_3",
+    "uiColor": "#FF2A6372",
+    "uuid": "ae52f5e9-c6d9-4bb8-8a1f-10c45d4e2d96",
+    "material": "25a0b489-5955-15c3-01d5-e761cfed1f78"
+  },
+  "HAIR_Color_Aqua_1": {
+    "name": "HAIR_Color_Aqua_1",
+    "uiColor": "#FF608F9B",
+    "uuid": "f68e4d47-4cfc-458d-ab6b-dbf0e6485e28",
+    "material": "c30a194f-4da5-5752-4d0c-5c7ed1385019"
+  },
+  "HAIR_Color_Aqua_2": {
+    "name": "HAIR_Color_Aqua_2",
+    "uiColor": "#FF4C747E",
+    "uuid": "ee4f5abf-eefb-42bd-8878-66cb90d0243b",
+    "material": "ef686353-a5b6-e01f-9177-5ff9da8d68f3"
+  },
+  "HAIR_Color_Aqua_4": {
+    "name": "HAIR_Color_Aqua_4",
+    "uiColor": "#FF1C4751",
+    "uuid": "d7277ee5-cc5a-4766-ba1e-8ed050cfa43f",
+    "material": "f57f1c44-8fff-b65d-0356-e96bc6b37038"
+  }
+}

@@ -1,6 +1,5 @@
 {
   "mod": "e9f4b3e9-2dd1-4c9b-9b0d-ff4b04999f80",
-
   "baalzebul.id": "cfbf9042-cde3-451b-a51b-53cdcbf1aed9",
   "baalzebul.progression.id": "4a9781cc-0614-417c-aa94-e394c5f050f7",
   "baalzebul.progression.1.id": "0f9c7858-880b-4572-85b5-7816a7c78ecc",
@@ -9,7 +8,6 @@
   "baalzebul.preset.m.id": "489d1236-b086-4b1f-9269-8992c6c7b627",
   "baalzebul.preset.f.root_template": "e6fb6c1d-7315-4657-94a8-d43e75e84800",
   "baalzebul.preset.m.root_template": "27c9e5fe-6407-425c-bb3e-f3d7e28deb28",
-  
   "dispater.id": "6106c7d7-a13b-4fe0-a792-30029c1df9d7",
   "dispater.progression.id": "eb7dde10-4bba-460c-b7c9-aeb2800b8048",
   "dispater.progression.1.id": "2fff892e-89ae-4504-9e09-bb7e378e54ba",
@@ -19,7 +17,6 @@
   "dispater.preset.m.id": "6077d5a2-c263-49b1-9b2b-16dd9d405e69",
   "dispater.preset.f.root_template": "129201b0-bcb9-49d8-9123-992321475917",
   "dispater.preset.m.root_template": "bfb338d5-e4d5-42c1-8fee-1c617e8de3d0",
-
   "levistus.id": "f1f228d5-bfc0-4f1c-82f9-e6e0e7b57461",
   "levistus.progression.id": "6e6f5011-5c4e-4cb3-b466-75f5fb6faf80",
   "levistus.progression.1.id": "109112e3-9154-495c-9c8c-aad65b14130f",
@@ -28,9 +25,24 @@
   "levistus.preset.m.id": "d1c288ec-fbbf-4ec9-9b39-cc1a85da0da7",
   "levistus.preset.f.root_template": "c30dd686-7892-4e8a-8918-7b880c1d1c64",
   "levistus.preset.m.root_template": "05f13d68-d8d8-45ce-b458-fab609491e31",
-
   "spelllist.thaumaturgy": "5eada6b7-d9a2-4ef2-8872-0dce047e458c",
   "spelllist.ray_of_sickness": "d0033ef5-4ad1-47f7-8464-045829dd170f",
   "spelllist.ray_of_frost": "10b15189-c822-4f23-ad63-36701c9bef0e",
-  "spelllist.armor_of_agathys": "f1ae407e-fb6e-4272-843a-bce16a058258"
+  "spelllist.armor_of_agathys": "f1ae407e-fb6e-4272-843a-bce16a058258",
+  "baalzebul.preset.f.visual_ref": "69922d7a-a492-4082-8473-db4678d21a28",
+  "baalzebul.preset.m.visual_ref": "0e9eee35-4dab-4323-91c3-7be973d20f53",
+  "dispater.preset.f.visual_ref": "7a4f2921-0139-4f89-a6bc-2a0690598359",
+  "dispater.preset.m.visual_ref": "59c6bc9e-639d-4249-b64d-fcf998077377",
+  "levistus.preset.f.visual_ref": "b19973ce-c59d-42f0-98cf-44d67130c677",
+  "levistus.preset.m.visual_ref": "6e0481fd-8014-4f77-a11c-56961955fcae",
+  "levistus2.id": "2e8d62c5-685e-48d3-9a2c-110a242b7254",
+  "levistus2.progression.id": "c9dedd5f-d5d8-486d-8d17-e85cfb49e56f",
+  "levistus2.progression.1.id": "96f39398-8551-43e5-ae72-502344b13a3e",
+  "levistus2.progression.3.id": "a0f6f230-f219-4837-82ed-82427ba8372c",
+  "levistus2.preset.f.id": "1af94b9d-a6d5-4501-9884-164a1ca5ceb5",
+  "levistus2.preset.f.root_template": "4c409a8c-fa2f-4678-8596-8f7597b475b8",
+  "levistus2.preset.f.visual_ref": "22c620cb-9afa-40a3-8fef-9f611d761af9",
+  "levistus2.preset.m.id": "696e11e2-a16b-4d91-b035-c9afd2e1fcaf",
+  "levistus2.preset.m.root_template": "893ebbb5-2239-4b4c-b1f9-8b8e6caf8a01",
+  "levistus2.preset.m.visual_ref": "4259884e-ba43-4f3c-a0ec-a8faa3b609fd"
 }

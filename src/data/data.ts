@@ -1,4 +1,7 @@
-import colors from './colors.json';
+import eyes from './eyes.json';
+import skins from './skins.json';
+import hairColor from './hair-color.json'
+import models from './models.json'
 import tiefling from './tiefling';
 
 const mod = {
@@ -32,7 +35,18 @@ const data = {
             'AddSpells({{spelllist.ray_of_sickness}},,Charisma,,AlwaysPrepared)',
         },
       ],
-      skinColors: [...colors.OTH.Dryad, ...colors.ELF.Wood].map((c) => c.uuid),
+      skinColors: [...skins.OTH.Dryad, ...skins.ELF.Wood],
+      defaults: {
+        eyes: eyes.DemonicYellowB,
+        skin: skins.OTH.Dryad[1],
+        hairColor: hairColor.HAIR_Color_BrownDrab_2,
+      },
+      female: {
+        head: models.Head.female[0]
+      },
+      male: {
+        head: models.Head.male[0]
+      },
     }),
     tiefling({
       name: 'Dispater',
@@ -54,9 +68,18 @@ const data = {
             'AddSpells({{spelllist.disguise_self}},,Charisma,,AlwaysPrepared)',
         },
       ],
-      skinColors: [...colors.UND.Ash, ...colors.UND.Amethyst].map(
-        (c) => c.uuid
-      ),
+      skinColors: [...skins.UND.Ash, ...skins.UND.Amethyst],
+      defaults: {
+        eyes: eyes.DemonicBlackB,
+        skin: skins.UND.Ash[7],
+        hairColor: hairColor.HAIR_Color_BlackRaven,
+      },
+      female: {
+        head: models.Head.female[1]
+      },
+      male: {
+        head: models.Head.male[1]
+      },
     }),
     tiefling({
       name: 'Levistus',
@@ -76,7 +99,18 @@ const data = {
             'AddSpells({{spelllist.armor_of_agathys}},,Charisma,,AlwaysPrepared)',
         },
       ],
-      skinColors: [...colors.OTH.Aqua, ...colors.TIF.Storm].map((c) => c.uuid),
+      skinColors: [...skins.OTH.Aqua, ...skins.TIF.Storm],
+      defaults: {
+        eyes: eyes.DemonicWhiteC,
+        skin: skins.OTH.Aqua[2],
+        hairColor: hairColor.HAIR_Color_White_0,
+      },
+      female: {
+        head: models.Head.female[2]
+      },
+      male: {
+        head: models.Head.male[2]
+      },
     }),
   ],
   spellLists: [

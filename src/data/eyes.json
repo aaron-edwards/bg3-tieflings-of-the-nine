@@ -1,0 +1,494 @@
+{
+  "NaturalBrownA": {
+    "name": "Natural Brown A",
+    "uiColor": "#FF51240F",
+    "uuid": "d19b8c63-be63-4d2b-ac19-c602a2be2ab7",
+    "material": "93cb58ae-1c2d-a6c8-e9a8-675bb000edd0"
+  },
+  "NaturalBrownB": {
+    "name": "Natural Brown B",
+    "uiColor": "#FF703C16",
+    "uuid": "0974ab61-b617-49da-ab82-1d9c19ea676b",
+    "material": "62b1c4c9-a8d4-3132-b3a6-1e3294a6551a"
+  },
+  "NaturalBrownC": {
+    "name": "Natural Brown C",
+    "uiColor": "#FF8F5D09",
+    "uuid": "e128e440-1b47-4ccf-b054-a04de97bf8d1",
+    "material": "d2188ad5-d623-a75f-a9b5-d7c485a8673f"
+  },
+  "NaturalBlueA": {
+    "name": "Natural Blue A",
+    "uiColor": "#FF0F547F",
+    "uuid": "96e2d77e-53dd-4d3b-90b4-99bb4dd3d2e5",
+    "material": "c7b18f63-7a05-0c0b-0c3a-06d6d13356b6"
+  },
+  "NaturalBlueB": {
+    "name": "Natural Blue B",
+    "uiColor": "#FFB4E0FA",
+    "uuid": "f596adf3-be67-47be-aa96-95036268dcbb",
+    "material": "8b2eba8f-f73b-fc6e-e1e9-a79bbf3b0249"
+  },
+  "NaturalBlueC": {
+    "name": "Natural Blue C",
+    "uiColor": "#FF76D2DE",
+    "uuid": "76acc131-94e3-490c-ab11-38580794f45b",
+    "material": "e90c7cb8-5728-9790-d4c5-2c1b3e485d16"
+  },
+  "NaturalGreenA": {
+    "name": "Natural Green A",
+    "uiColor": "#FF9EB25F",
+    "uuid": "92a6d6bd-b7d7-4c89-ab4b-7e41b182377a",
+    "material": "49dfbdaf-853b-e050-6724-1b2d4af805c6"
+  },
+  "NaturalGreenB": {
+    "name": "Natural Green B",
+    "uiColor": "#FF898F00",
+    "uuid": "01e04b65-303f-44e3-9ab1-a0b572914f7e",
+    "material": "32d4c6e2-6bca-2957-986a-1ff8b1f5bf08"
+  },
+  "NaturalGreenC": {
+    "name": "Natural Green C",
+    "uiColor": "#FF416330",
+    "uuid": "9fefbeec-d228-412a-ae71-6ce6497ffe42",
+    "material": "ba549f7d-1ea5-ed86-d506-8e917f22f448"
+  },
+  "NaturalGrayA": {
+    "name": "Natural Gray A",
+    "uiColor": "#FF949695",
+    "uuid": "39bfcae6-0691-4895-b069-d5ba0be55088",
+    "material": "2737e393-3833-8aa9-dfed-8153a962add7"
+  },
+  "NaturalGrayB": {
+    "name": "Natural Gray B",
+    "uiColor": "#FFC8CCCC",
+    "uuid": "95e12616-e6e2-474c-9996-b1dceb051bd9",
+    "material": "e30131e8-43d0-4d06-1b53-e9c66dd71460"
+  },
+  "NaturalHazelnut1": {
+    "name": "Natural Hazelnut 1",
+    "uiColor": "#FF73562E",
+    "uuid": "277d4a63-0d0e-4b96-89fb-9976900293f2",
+    "material": "c360f7b0-717e-b66e-1b5c-d707faf9490e"
+  },
+  "NaturalHazelnut2": {
+    "name": "Natural Hazelnut 2",
+    "uiColor": "#FF99793D",
+    "uuid": "3c669eba-b383-4079-859b-d9a5ee8cbcc6",
+    "material": "6d8c3972-f35d-b429-22dd-d0edcc8385d0"
+  },
+  "NaturalHazelnut3": {
+    "name": "Natural Hazelnut 3",
+    "uiColor": "#FF966726",
+    "uuid": "c3109c16-531f-463d-a6f1-6182e7965f27",
+    "material": "fb59a1b2-b0fe-c680-68a5-42bfe1a1576c"
+  },
+  "UnderdarkBlackA": {
+    "name": "Underdark Black A",
+    "uiColor": "#FF262525",
+    "uuid": "830e79a7-7ae8-4e76-a9fd-5baf7c2c637c",
+    "material": "f27a1aee-9b20-f495-a16a-9824a6c6d561"
+  },
+  "UnderdarkBlackB": {
+    "name": "Underdark Black B",
+    "uiColor": "#FF4F4F4F",
+    "uuid": "c55b75c5-cc13-4797-9758-7979a21bf9d0",
+    "material": "588228b2-ffde-3da3-7d37-749b98a9d4cf"
+  },
+  "UnderdarkPurpleA": {
+    "name": "Underdark Purple A",
+    "uiColor": "#FFBE94E8",
+    "uuid": "5e20ef7e-4f8b-4cd7-964d-9f68bb2ac51d",
+    "material": "9fb85eb0-48b1-6595-d831-4969e2d28e61"
+  },
+  "UnderdarkPurpleC": {
+    "name": "Underdark Purple C",
+    "uiColor": "#FFE5CFFF",
+    "uuid": "bf8189c5-d057-42e7-aae8-849628b83689",
+    "material": "b3ff0d4e-50c3-442e-3d8b-e30a5cf73368"
+  },
+  "UnderdarkPurpleB": {
+    "name": "Underdark Purple B",
+    "uiColor": "#FF8348BA",
+    "uuid": "79b4e8e8-eea4-4689-b42c-1085d2a67ac3",
+    "material": "81465a19-d956-6f91-f169-99d3db48176d"
+  },
+  "UnderdarkRedA": {
+    "name": "Underdark Red A",
+    "uiColor": "#FFC83244",
+    "uuid": "89983ad8-9350-45a5-bbf0-0266f3f00a74",
+    "material": "8849a0c7-25ec-3434-8327-2cf825949fca"
+  },
+  "UnderdarkRedB": {
+    "name": "Underdark Red B",
+    "uiColor": "#FF841515",
+    "uuid": "bbdef785-d8de-4813-b8e9-83d1ceee1366",
+    "material": "4b3a68be-cdd7-436f-b046-dcdb099aaadb"
+  },
+  "UnderdarkRedC": {
+    "name": "Underdark Red C",
+    "uiColor": "#FFE85757",
+    "uuid": "7fb2f5fa-216d-449e-adf7-eb11f847fa7c",
+    "material": "21ae4745-3d2b-c243-4876-44ea9b40c664"
+  },
+  "UnderdarkWhiteA": {
+    "name": "Underdark White A",
+    "uiColor": "#FFF2F2F2",
+    "uuid": "76658eb0-bea1-40ce-98eb-479cfdd2f063",
+    "material": "555b3791-6204-8b36-b6cc-2cd47a9dfd82"
+  },
+  "UnderdarkWhiteB": {
+    "name": "Underdark White B",
+    "uiColor": "#FFD1D0CE",
+    "uuid": "6a0d0958-d421-41d9-bc2b-2c4c96028b3b",
+    "material": "d10d5ec0-edab-7f6c-7642-9d3d820940af"
+  },
+  "UnderdarkWhiteC": {
+    "name": "Underdark White C",
+    "uiColor": "#FFA3A19F",
+    "uuid": "2fda7eda-6a29-4f63-98e2-ff09695d2e53",
+    "material": "8b1f4f6a-c35b-84eb-08d9-92626078fe1c"
+  },
+  "ElfGoldA": {
+    "name": "Elf Gold A",
+    "uiColor": "#FFFFD06F",
+    "uuid": "421b5ee1-514b-4353-8ad8-ecd04cce718b",
+    "material": "d04c7105-6f67-96bd-7703-34eab9760408"
+  },
+  "ElfGoldB": {
+    "name": "Elf Gold B",
+    "uiColor": "#FFE5D160",
+    "uuid": "b195de3d-28e3-419e-b16b-96d4f8067ebe",
+    "material": "485f8b9c-058b-5140-fc29-6fec880975fa"
+  },
+  "ElfGoldC": {
+    "name": "Elf Gold C",
+    "uiColor": "#FFFDA631",
+    "uuid": "68b1643a-ab63-4622-8f94-2b1fc7ebc69a",
+    "material": "47ffccab-d447-8949-3e00-83162847d561"
+  },
+  "ElfGreenA": {
+    "name": "Elf Green A",
+    "uiColor": "#FF79BA79",
+    "uuid": "b1dd745e-77b8-49d4-835f-8ffdfa3ebb34",
+    "material": "5be2f4a9-7f1b-673b-8d90-f10bf748215b"
+  },
+  "ElfBlueA": {
+    "name": "Elf Blue A",
+    "uiColor": "#FF3F95CC",
+    "uuid": "1333eae2-9685-449b-8c03-821408f94d45",
+    "material": "8d59a076-95d2-2896-7a5a-9247b5e8149e"
+  },
+  "ElfSilverA": {
+    "name": "Elf Silver A",
+    "uiColor": "#FFD0EAE2",
+    "uuid": "eaa5bf3f-447d-4e6a-9c08-b7f4d5f0c7e2",
+    "material": "6287cbbc-4d41-e6d5-97a8-8afa7c9b4d2a"
+  },
+  "EladrinSpring": {
+    "name": "Eladrin Spring",
+    "uiColor": "#FF98D141",
+    "uuid": "94bded7a-b4d6-4f38-bdea-a632f13dc3fb",
+    "material": "a6992ca8-0267-6877-ee86-f51259671b4e"
+  },
+  "EladrinSummer": {
+    "name": "Eladrin Summer ",
+    "uiColor": "#FFCE9120",
+    "uuid": "64a230d2-0c3f-436a-bc61-8a4e9c18e2b1",
+    "material": "a2d62b44-ad18-38ce-aaec-1c15b8c2147f"
+  },
+  "EladrinAutumn": {
+    "name": "Eladrin Autumn",
+    "uiColor": "#FFE34F2A",
+    "uuid": "8d37212e-07b6-419b-9400-d370effbe365",
+    "material": "86533dae-abf4-8357-d735-2ba28655b5f2"
+  },
+  "EladrinWinter": {
+    "name": "Eladrin Winter",
+    "uiColor": "#FF7CE0FF",
+    "uuid": "d28b1826-c0d2-41fc-bba5-f2f68d0fe3af",
+    "material": "e105373e-7402-7727-4697-001a4a6ca62a"
+  },
+  "DemonicRedA": {
+    "name": "Demonic Red A",
+    "uiColor": "#FFB52525",
+    "uuid": "9932700c-5d6b-40cf-8ec1-a13cd5f60381",
+    "material": "c2b154af-d286-2d6b-f02f-28b7af97454f"
+  },
+  "DemonicRedB": {
+    "name": "Demonic Red B",
+    "uiColor": "#FFC95D26",
+    "uuid": "309dcef6-6531-4ffd-9a37-fe19aaeb81a1",
+    "material": "051b242b-70f3-4ce2-d4ca-a54694341018"
+  },
+  "DemonicYellowA": {
+    "name": "Demonic Yellow A",
+    "uiColor": "#FFF59A2B",
+    "uuid": "554de915-9f2a-4561-bd5c-745f7b3ea0bd",
+    "material": "22ddc886-0448-29dc-c8b6-4222e5cfbbba"
+  },
+  "DemonicGreenA": {
+    "name": "Demonic Green A",
+    "uiColor": "#FFA4E564",
+    "uuid": "86ede62e-3a1e-4c3b-bf92-04534190a76d",
+    "material": "3da4260a-b546-1c22-4dbf-2d559abea912"
+  },
+  "DemonicBlueA": {
+    "name": "Demonic Blue A",
+    "uiColor": "#FF24D9D9",
+    "uuid": "d12d0368-54d2-41c2-b2ed-a92de880a07f",
+    "material": "14b786eb-10c7-a38d-e9c9-90b6204fe4f2"
+  },
+  "DemonicBlueB": {
+    "name": "Demonic Blue B",
+    "uiColor": "#FF3CCEFF",
+    "uuid": "7a3cafb1-7607-4c30-af72-dba729b7a83f",
+    "material": "712885a4-202b-1a6e-91f8-6aca2ddda280"
+  },
+  "DemonicPurpleA": {
+    "name": "Demonic Purple A",
+    "uiColor": "#FF9754F7",
+    "uuid": "7c0bd1cb-dbcc-407c-94a7-637e79127fc7",
+    "material": "2d903bd4-a18c-3f8c-41d1-6b6502f85f9f"
+  },
+  "DemonicPurpleB": {
+    "name": "Demonic Purple B",
+    "uiColor": "#FFBD22FF",
+    "uuid": "6d0967ee-82c1-48c0-983a-a9c745af3ea1",
+    "material": "08d855fc-d47b-7f8c-93fe-c80ad848061d"
+  },
+  "DemonicWhiteA": {
+    "name": "Demonic White A",
+    "uiColor": "#FFFFDFDF",
+    "uuid": "73b4718c-06db-4fe6-a400-17a7a7e8b0c9",
+    "material": "32792aca-346e-ed62-3d18-32879e5bd956"
+  },
+  "DemonicWhiteB": {
+    "name": "Demonic White B",
+    "uiColor": "#FFD4FFD4",
+    "uuid": "754c0909-3899-4b3a-9735-70bc665c937a",
+    "material": "eb1d9251-044c-ea32-b6c2-eb6c46a94f06"
+  },
+  "SolidBlack": {
+    "name": "Solid Black",
+    "uiColor": "#FF000000",
+    "uuid": "85f8ea32-21d7-4c33-9f4f-2f86ac623fea",
+    "material": "15c6f1a3-efd2-1c7f-f7df-4d55be8e80c4"
+  },
+  "GithTopazA": {
+    "name": "Gith Topaz A",
+    "uiColor": "#FFAD851E",
+    "uuid": "f1ef2083-445b-443e-8f67-acf6b7895722",
+    "material": "141a452b-0ae0-62fe-7c8d-2c8eceab8550"
+  },
+  "GithTopazB": {
+    "name": "Gith Topaz B",
+    "uiColor": "#FFD6AF4E",
+    "uuid": "f5fc9791-84d4-4439-835d-54ac2f85ef3e",
+    "material": "f143fb1d-d004-cb1c-76a2-76662ceb431b"
+  },
+  "GithTopazC": {
+    "name": "Gith Topaz C",
+    "uiColor": "#FFDBCC7A",
+    "uuid": "35b96acd-31b3-4bb8-a792-7816294a1441",
+    "material": "a8c9dbd2-977f-ff14-66e2-4926c531894e"
+  },
+  "GithTopazD": {
+    "name": "Gith Topaz D",
+    "uiColor": "#FF88702D",
+    "uuid": "dcf74f16-ea90-410a-823a-ebfbcd179dce",
+    "material": "9f67a7f1-a574-3265-1ea8-9d29dc545d1f"
+  },
+  "GithEmeraldA": {
+    "name": "Gith Emerald A",
+    "uiColor": "#FF687023",
+    "uuid": "159aa802-88f6-460e-a7d8-886afcb7ac5d",
+    "material": "07a99517-67a7-a8d4-5502-7bd3607ba0ec"
+  },
+  "GithEmeraldB": {
+    "name": "Gith Emerald B",
+    "uiColor": "#FFA9C72E",
+    "uuid": "764f104d-afd8-4f66-990f-fc48eb0d0707",
+    "material": "c72da880-018c-9478-30f5-5061a180a652"
+  },
+  "GithEmeraldC": {
+    "name": "Gith Emerald C",
+    "uiColor": "#FF356E2A",
+    "uuid": "42691bde-a907-413c-81cc-8d95b4551efd",
+    "material": "3e278a2d-5c36-77b7-7658-05106e915d77"
+  },
+  "GithEmeraldD": {
+    "name": "Gith Emerald D",
+    "uiColor": "#FF45CE9A",
+    "uuid": "cc6e6c04-a4c1-4f16-bc82-cc55955e04ea",
+    "material": "cbc25e1c-94ea-2473-7208-df663b35578f"
+  },
+  "GithSapphireA": {
+    "name": "Gith Sapphire A",
+    "uiColor": "#FF017787",
+    "uuid": "78d4ecc1-4cdd-4a06-aa3d-9caccfd40940",
+    "material": "dfadb5f2-698a-67ce-274d-bd27bc917d0e"
+  },
+  "GithSapphireB": {
+    "name": "Gith Sapphire B",
+    "uiColor": "#FF49FFD1",
+    "uuid": "d1ea9280-a49f-40b8-ba67-f1fbe27e7813",
+    "material": "d16ccb33-b0d1-bd79-5b24-44646feeb4cb"
+  },
+  "GithSapphireC": {
+    "name": "Gith Sapphire C",
+    "uiColor": "#FF5CB8CE",
+    "uuid": "d366d00e-f551-4450-8769-3f0c3f28ec95",
+    "material": "e4dc50f3-0acf-5e14-322e-79dfd71fae66"
+  },
+  "GithSapphireD": {
+    "name": "Gith Sapphire D",
+    "uiColor": "#FF00FFFF",
+    "uuid": "c3f0b282-df5a-4662-84b8-5f58193d4a74",
+    "material": "ed686a21-c63b-f4c2-930b-2932fcbe9720"
+  },
+  "GithAmethystA": {
+    "name": "Gith Amethyst A",
+    "uiColor": "#FFAB43AB",
+    "uuid": "18c9a0c9-bae6-4b95-8474-71692e64b2a9",
+    "material": "a554057e-d62b-2594-2111-465f9c9efbd4"
+  },
+  "GithRubyA": {
+    "name": "Gith Ruby A",
+    "uiColor": "#FF701212",
+    "uuid": "65be2ae4-f057-4284-a9b5-3fec74601f53",
+    "material": "90096e98-9f91-d06a-e8c0-d85ef2560649"
+  },
+  "GithRubyB": {
+    "name": "Gith Ruby B",
+    "uiColor": "#FFDB4F4F",
+    "uuid": "bbdd1b57-232d-4f01-b29a-50875766e58a",
+    "material": "cd25b3a2-d6dd-3994-04c1-60dbf811d3ea"
+  },
+  "GithRubyC": {
+    "name": "Gith Ruby C",
+    "uiColor": "#FFE86349",
+    "uuid": "eefd6903-a79a-4229-9822-4a2bace9cc41",
+    "material": "1a950e27-e090-beb6-3042-317e2ebfa904"
+  },
+  "GithObsidianA": {
+    "name": "Gith Obsidian A",
+    "uiColor": "#FF514848",
+    "uuid": "ebb8f0ee-9d2f-4484-90c8-bbfb8da820a6",
+    "material": "9e6962e7-1900-6681-574f-72e646b70d5b"
+  },
+  "GithObsidianB": {
+    "name": "Gith Obsidian B",
+    "uiColor": "#FF2E2E2E",
+    "uuid": "94543023-791b-41bf-8a0d-436513d1999a",
+    "material": "93b67b3a-ea5b-e299-b60e-edd4aa340e89"
+  },
+  "GithOpalA": {
+    "name": "Gith Opal A",
+    "uiColor": "#FFF5F5DC",
+    "uuid": "4c48f8aa-8e56-4d56-926e-a50b690c73d0",
+    "material": "8c8875f3-ad05-f8da-7c2d-8a0e015b4361"
+  },
+  "GithOpalB": {
+    "name": "Gith Opal B",
+    "uiColor": "#FFF0FFFF",
+    "uuid": "7252754b-b134-47d7-aa54-4c79ce9df758",
+    "material": "3cb8b9c5-652e-11ea-fc74-ce3e205e857b"
+  },
+  "OtherPinkA": {
+    "name": "Other Pink A",
+    "uiColor": "#FFC255C2",
+    "uuid": "fe5cdcc9-59d9-43eb-bb73-1776e4d2b865",
+    "material": "55789408-910f-e78b-86f3-a31dc2d0bdfb"
+  },
+  "OtherPinkB": {
+    "name": "Other Pink B",
+    "uiColor": "#FF9B3681",
+    "uuid": "3682f153-26fa-4bee-ab56-2588a4d39e64",
+    "material": "72a52552-bc17-12cf-e8f5-ebbe8691dc57"
+  },
+  "OtherPinkC": {
+    "name": "Other Pink C",
+    "uiColor": "#FFFFBAFF",
+    "uuid": "c17862f5-dc00-48a4-a3ea-2246690ef424",
+    "material": "4d98882f-88e2-0720-1ffb-483d45a852a1"
+  },
+  "ElfBlueB": {
+    "name": "Elf Blue B",
+    "uiColor": "#FF53C7DB",
+    "uuid": "8f93c7cb-0bca-446a-a7d2-ed70f6c7e64c",
+    "material": "f55582e7-e491-290e-8ebe-63f9e64f0a38"
+  },
+  "ElfBlueC": {
+    "name": "Elf Blue C",
+    "uiColor": "#FF5BDBCE",
+    "uuid": "5c6fb833-e092-4309-82b3-f05709ae01ce",
+    "material": "a9639cb5-275b-39cc-d2cb-ab3e9d0037b3"
+  },
+  "ElfGreenB": {
+    "name": "Elf Green B",
+    "uiColor": "#FF95BF64",
+    "uuid": "6e50f820-c137-4f7b-8ef7-f03fd56a53ee",
+    "material": "0b57b4ba-3881-1b96-b4f8-8f99b892ab1f"
+  },
+  "ElfSilverB": {
+    "name": "Elf Silver B",
+    "uiColor": "#FF98A6A1",
+    "uuid": "a946e5c9-3147-4392-a0a6-08777fb61dae",
+    "material": "60061380-acce-c9bf-1fc5-1e077871432e"
+  },
+  "DemonicBlueC": {
+    "name": "Demonic Blue C",
+    "uiColor": "#FF83BAD6",
+    "uuid": "fb5e8ca9-748f-4c8e-b84b-1f63f51fcdb9",
+    "material": "6a50b547-5b8e-4ada-88af-13f22ab4556f"
+  },
+  "DemonicYellowB": {
+    "name": "Demonic Yellow B",
+    "uiColor": "#FFFCD266",
+    "uuid": "af03ef73-41f5-4b9a-b440-85b576806084",
+    "material": "705e94bf-4126-f1f3-313a-387ff409c62d"
+  },
+  "DemonicGreenB": {
+    "name": "Demonic Green B",
+    "uiColor": "#FF7CAD5D",
+    "uuid": "f0cca648-62bd-46f1-b3b4-fa1d77b1d3bd",
+    "material": "1dd50413-5451-213d-b92a-4d3d7c2bceac"
+  },
+  "DemonicWhiteC": {
+    "name": "Demonic White C",
+    "uiColor": "#FFD9D9ED",
+    "uuid": "30cc5c6b-2e3a-452d-a391-bcb5b2a05c94",
+    "material": "d631b765-f3ba-c6ec-410b-94844fa012e9"
+  },
+  "DemonicWhiteD": {
+    "name": "Demonic White D",
+    "uiColor": "#FFFFE6FF",
+    "uuid": "ed6303a6-75f0-4fcb-913b-da16f39594c2",
+    "material": "5a51c2df-eabf-e82a-2f80-8b5d92bc04fc"
+  },
+  "DemonicBlackA": {
+    "name": "Demonic Black A",
+    "uiColor": "#FF291E1E",
+    "uuid": "4f7cb767-ab01-45fd-ab06-d51aef253aa9",
+    "material": "4da2db3e-7046-1130-fbf9-d72d9bcb138a"
+  },
+  "DemonicBlackB": {
+    "name": "Demonic Black B",
+    "uiColor": "#FF1D261D",
+    "uuid": "be8c108a-a179-4295-b600-0022cf1f35b8",
+    "material": "962a1f58-7870-6ec5-4235-2f0a260232d0"
+  },
+  "DemonicBlackC": {
+    "name": "Demonic Black C",
+    "uiColor": "#FF20202E",
+    "uuid": "05cc297b-7628-4eaa-b0d9-5e2dc5e46807",
+    "material": "0070da3c-58ea-14d2-1721-2f4a0d274b9b"
+  },
+  "DemonicBlackD": {
+    "name": "Demonic Black D",
+    "uiColor": "#FF2B1E2B",
+    "uuid": "d5c70379-1865-4281-86ed-7d952ce9c0ea",
+    "material": "4dcd384b-df31-accb-cd20-643b8d30ade5"
+  }
+}

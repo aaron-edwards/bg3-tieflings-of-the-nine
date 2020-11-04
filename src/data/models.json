@@ -1,0 +1,452 @@
+{
+  "Head": {
+    "male": [
+      {
+        "gender": "male",
+        "resource": "68e5edbc-f552-4100-dfdf-a6b4059c5c9e",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "25a495c5-a7d7-bbba-f3c9-8b0ee2a9e602",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "4490e0a0-ef12-a52b-df4b-525257b150d0",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "f6663182-593b-6f96-9e16-9b39570b1c75",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "6f2032be-157a-2ee9-04cf-88b6d4d6d7fb",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      }
+    ],
+    "female": [
+      {
+        "gender": "female",
+        "resource": "959b33b8-5c84-4511-c4c5-1eb5f2ac65b7",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "afb26b92-f5ea-bf44-6dcf-c9172481781f",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "13afbd7c-e5b0-af81-58ff-2e9745dda035",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "6aac7836-5879-9c6d-ef44-37e98f84a880",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "fdc61468-e94f-8736-d253-9baaa51b88e6",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "c15d3b7c-96ad-844f-8392-85ca415cdd2b",
+        "slot": "Head",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      }
+    ]
+  },
+  "Hair": {
+    "male": [
+      {
+        "gender": "male",
+        "resource": "b0d44c19-2da7-3ce1-ed94-85717a8f25d3",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "8d5e8ccd-201c-e94c-4406-cd5992636a34",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "c46b329d-ee10-d7cd-df00-487f63c65580",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "d5383734-6326-3458-19cb-1ec1255bf825",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "91420d6d-b224-7932-d56e-57f0d1cbf086",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "b2b4088a-3e30-34cc-cb0f-c12f1a67a458",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "5ace74e7-9f31-edc2-e2e2-0d0ad3bf8447",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "5dd1dc06-0fd7-3378-ce95-40857ec30f67",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "a7d19abc-8d44-f856-9162-cd3c61c666b6",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "5fa29037-bc49-c70c-08bb-9deef8c89a72",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "46bcb4d5-496a-1c98-f1cf-4bb40fc27f85",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "212a89a9-d758-83ad-f8c0-800559cb932b",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "737b5f8c-ee4e-4963-f989-8d905befc752",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "946537fa-74a7-fc6c-3950-9a405c29e25d",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "1d166652-5b06-de26-d1e4-27ddde2acb69",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "af0e63c0-0733-3e02-8390-e441aeb4e9e4",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "c595def0-3357-54c4-b7ac-43d905160f82",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "755c2878-1726-a038-1e9f-0fad13704211",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "e5bea391-c315-a35c-3ca7-f0db33f1daa5",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "00000000-0000-0000-0000-000000000000",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      }
+    ],
+    "female": [
+      {
+        "gender": "female",
+        "resource": "30584c2b-5896-7621-1e7f-f560dd24f66f",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "57c53a9d-70c2-f996-48a7-e25cfe290967",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "4f53dea5-e03b-19bd-a00b-b5276351735e",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "735d7395-0a12-b09b-5613-c17d147d28a2",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "ff4f0919-efbc-b558-bb85-d1982f7e2e6b",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "659f975c-62db-020a-d7ff-d53314d96749",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "3da4ce51-b929-396a-2b59-98dae157027e",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "76c7186a-6f8d-dc7f-75a6-5ff1a6ae2593",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "7b2225a0-6984-658b-dc17-bf5929176968",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "a726b1bd-f83a-133d-df26-acf6b5450f27",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "00000000-0000-0000-0000-000000000000",
+        "slot": "Hair",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      }
+    ]
+  },
+  "Horns": {
+    "male": [
+      {
+        "gender": "male",
+        "resource": "120d0ea3-d159-bd86-339c-0c57d1795a66",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "37a3b724-37c5-669c-f7e9-b34efc25bcf0",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "7afee2cc-fa5e-0c0b-2021-4f93c8469cc4",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "9964e27d-9436-866b-d929-7fc46d7397a3",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "7d8d07dd-d37d-23d2-021f-8e2f7fed31e1",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "9d4f90f1-91ed-5f9a-fbe5-e81d1c7c71d4",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "824ac4c3-5415-134f-ceff-2c861f9f7e41",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "926c8b87-f5a5-e0ef-e4b4-1a6cb17479fc",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "fd2f16eb-c4f6-e4a8-005b-7ca61eb24fcc",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "7ea20422-cf96-9044-1330-29b3b2580e10",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "448470e4-e817-b703-ce19-23be181c0ecf",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "b248b2fc-761a-cc50-5dbc-3cb371f431dc",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "b35388ba-80cd-dd67-f0da-25cd0210890e",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "5ca3be3d-6e2a-8043-b113-1efb8b4d293f",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "male",
+        "resource": "00000000-0000-0000-0000-000000000000",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      }
+    ],
+    "female": [
+      {
+        "gender": "female",
+        "resource": "c64913c5-b53b-27d8-16b5-0ad1ba56156f",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "cad0f431-a80b-10cd-f8ac-cd7bb40ab91a",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "133f43bf-8d20-0b06-4d52-71c243468a5c",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "80681125-657d-d46d-ad76-b93637127f81",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "6595115a-c4e6-cc0f-45f2-a069ee36bf7c",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "38607147-534e-5689-a9b2-ff85ea44195b",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "5a09de8f-ad09-c9e0-4c88-a17b23558b9c",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "30970377-a629-91de-27fb-d73bc65462a2",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "9f860236-2c95-ff25-5d41-e74fa68fb9e9",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "ef9685c4-9e5e-597d-a59d-e9014f171702",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "3e4495ce-f34f-4923-4031-4ad0ea499ca4",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "dd3ba412-3f4d-63e3-cd9c-ffc8d75b5264",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "95266fb8-7a18-74b0-46eb-a92671791e64",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "92db8474-56bd-22a4-03ec-b79cd4767c06",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      },
+      {
+        "gender": "female",
+        "resource": "00000000-0000-0000-0000-000000000000",
+        "slot": "Horns",
+        "race": "b6dccbed-30f3-424b-a181-c4540cf38197"
+      }
+    ]
+  }
+}
