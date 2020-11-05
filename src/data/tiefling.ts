@@ -10,16 +10,20 @@ type TieflingOptions = {
   }[];
   skinColors?: { uuid: string }[];
   defaults: {
-    skin: { material: string },
-    eyes: { material: string },
-    hairColor: { material: string },
-  },
+    skin: { material: string };
+    eyes: { material: string };
+    hairColor: { material: string };
+  };
   female: {
-    head: { resource: string }
-  },
+    head: { resource: string };
+    hair: { resource: string };
+    horns: { resource: string };
+  };
   male: {
-    head: { resource: string }
-  }
+    head: { resource: string };
+    hair: { resource: string };
+    horns: { resource: string };
+  };
 };
 
 export default ({
@@ -29,7 +33,7 @@ export default ({
   skinColors,
   defaults,
   female,
-  male
+  male,
 }: TieflingOptions) => {
   const keyPrefix = name.trim().toLowerCase();
 
@@ -55,7 +59,7 @@ export default ({
     defaults: {
       skin: defaults.skin.material,
       eyes: defaults.eyes.material,
-      hairColor: defaults.hairColor.material
+      hairColor: defaults.hairColor.material,
     },
 
     presets: {
@@ -68,6 +72,8 @@ export default ({
         icon: '0a902841-1c5b-7acc-9620-91b284a65436-_(Icon_Tiefling_Female)',
         parent: '619e1ca1-2467-42a3-abb2-627e8ce527c3',
         head: female.head.resource,
+        hair: female.hair.resource,
+        horns: female.horns.resource,
       },
       male: {
         camera: 'TIF_M_Camera',
@@ -78,6 +84,8 @@ export default ({
         icon: 'a178a41d-05c3-3bc8-4879-15d2effe3300-_(Icon_Tiefling_Male)',
         parent: '6f881126-478f-43a4-ba02-c024cf03a212',
         head: male.head.resource,
+        hair: male.hair.resource,
+        horns: male.horns.resource,
       },
     },
   };

@@ -1,7 +1,7 @@
 import eyes from './eyes.json';
+import hairColor from './hair-color.json';
+import models from './models.json';
 import skins from './skins.json';
-import hairColor from './hair-color.json'
-import models from './models.json'
 import tiefling from './tiefling';
 
 const mod = {
@@ -16,6 +16,7 @@ const mod = {
 const data = {
   mod,
   tieflings: [
+    // Asmodeus (fixed) { head: 0, hair: 0, horns: 0 }
     tiefling({
       name: 'Baalzebul',
       description:
@@ -42,10 +43,14 @@ const data = {
         hairColor: hairColor.HAIR_Color_BrownDrab_2,
       },
       female: {
-        head: models.Head.female[0]
+        head: models.tiefling.Head.female[1],
+        hair: models.tiefling.Hair.female[1],
+        horns: models.tiefling.Horns.female[1],
       },
       male: {
-        head: models.Head.male[0]
+        head: models.tiefling.Head.male[1],
+        hair: models.tiefling.Hair.male[1],
+        horns: models.tiefling.Horns.male[1],
       },
     }),
     tiefling({
@@ -75,12 +80,18 @@ const data = {
         hairColor: hairColor.HAIR_Color_BlackRaven,
       },
       female: {
-        head: models.Head.female[1]
+        head: models.tiefling.Head.female[2],
+        hair: models.tiefling.Hair.female[2],
+        horns: models.tiefling.Horns.female[2],
       },
       male: {
-        head: models.Head.male[1]
+        head: models.tiefling.Head.male[2],
+        hair: models.tiefling.Hair.male[2],
+        horns: models.tiefling.Horns.male[2],
       },
     }),
+    // Fierna { head: 3, hair: 3, horns: 3 }
+    // Glasya { head: 4, hair: 4, horns: 4 }
     tiefling({
       name: 'Levistus',
       description:
@@ -106,12 +117,20 @@ const data = {
         hairColor: hairColor.HAIR_Color_White_0,
       },
       female: {
-        head: models.Head.female[2]
+        head: models.tiefling.Head.female[0],
+        hair: models.tiefling.Hair.female[5],
+        horns: models.tiefling.Horns.female[5],
       },
       male: {
-        head: models.Head.male[2]
+        head: models.tiefling.Head.male[0],
+        hair: models.tiefling.Hair.male[5],
+        horns: models.tiefling.Horns.male[5],
       },
     }),
+    // Mammon { head: 1, hair: 6 }
+    // Zariel (fixed) { head: 2, hair: 7 }
+    // Devi's Tounge { head: 3, hair: 8 }
+    // Feral { head: 3, hair: 9 }
   ],
   spellLists: [
     {
