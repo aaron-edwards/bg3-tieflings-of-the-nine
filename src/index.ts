@@ -63,24 +63,17 @@ function setUUIDs(data: any): {} {
   }, {});
 }
 
-const ifEq = (a: string, b: string, opts: HelperOptions) => {
-  if (a == b) {
-    // eslint-disable-next-line no-invalid-this
-    return opts.fn(this);
-  } else {
-    // eslint-disable-next-line no-invalid-this
-    return opts.inverse(this);
-  }
-};
-
-handlebars.registerHelper('if_eq', ifEq);
-
 async function run() {
   for await (const f of getFiles(src)) {
     console.log(f);
-    const outputFileTemp = basename(f).startsWith('_')
-      ? f.replace(src, buildMerged)
-      : f.replace(src, buildMod);
+    const fileName = basename(f);
+    const outputFileTemp =
+      fileName === 'info.json.hbs' || fileName === 'README.md.hbs'
+        ? f.replace(src, build)
+        : fileName.startsWith('_')
+        ? f.replace(src, buildMerged)
+        : f.replace(src, buildMod);
+
     const outputFile = outputFileTemp.replace('.hbs', '');
     await mkdir(dirname(outputFile), { recursive: true });
 
