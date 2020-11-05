@@ -194,12 +194,12 @@ const tieflings = [
         boosts:
           'Ability(Constitution,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
         selectors:
-          'AddSpells({{spelllist.mage_hand}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.ray_of_frost}},,Charisma,,AlwaysPrepared)',
       },
       {
         level: 3,
         selectors:
-          'AddSpells({{spelllist.ray_of_frost}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.armor_of_agathys}},,Charisma,,AlwaysPrepared)',
       },
     ],
     skinColors: [...skins.OTH.Aqua, ...skins.TIF.Storm],

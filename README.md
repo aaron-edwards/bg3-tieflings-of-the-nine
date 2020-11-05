@@ -18,7 +18,7 @@ Add to the Mods section (below the Gustav module)
         <attribute id="MD5" type="LSString" value=""/>
         <attribute id="Name" type="FixedString" value="Tieflings of the nine"/>
         <attribute id="UUID" type="FixedString" value="e9f4b3e9-2dd1-4c9b-9b0d-ff4b04999f80"/>
-        <attribute id="Version" type="int32" value="1604561498"/>
+        <attribute id="Version" type="int32" value="1604561724"/>
     </node>
 ```
 
