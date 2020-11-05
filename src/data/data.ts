@@ -160,6 +160,42 @@ const data = {
         horns: models.tiefling.Horns.male[4],
       },
     }),
+
+    tiefling({
+      name: 'Mammon',
+      description:
+        'The great miser Mammon loves coins above all else. Tieflings tied to him excel at gathering and safeguarding wealth.',
+      levels: [
+        {
+          level: 1,
+          boosts:
+            'Ability(Intelligence,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+          selectors:
+            'AddSpells({{spelllist.mage_hand}},,Charisma,,AlwaysPrepared)',
+        },
+        {
+          level: 3,
+          selectors:
+            'AddSpells({{spelllist.arms_of_hadar}},,Charisma,,AlwaysPrepared)',
+        },
+      ],
+      skinColors: [...skins.GTY.Gold, ...skins.TIF.Sulfur],
+      defaults: {
+        eyes: eyes.DemonicYellowB,
+        skin: skins.GTY.Gold[3],
+        hairColor: hairColor.HAIR_Color_BlondeGold_1,
+      },
+      female: {
+        head: models.tiefling.Head.female[1],
+        hair: models.tiefling.Hair.female[5],
+        horns: models.tiefling.Horns.female[5],
+      },
+      male: {
+        head: models.tiefling.Head.male[1],
+        hair: models.tiefling.Hair.male[5],
+        horns: models.tiefling.Horns.male[5],
+      },
+    }),
     tiefling({
       name: 'Levistus',
       description:
@@ -170,12 +206,12 @@ const data = {
           boosts:
             'Ability(Constitution,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
           selectors:
-            'AddSpells({{spelllist.ray_of_frost}},,Charisma,,AlwaysPrepared)',
+            'AddSpells({{spelllist.mage_hand}},,Charisma,,AlwaysPrepared)',
         },
         {
           level: 3,
           selectors:
-            'AddSpells({{spelllist.armor_of_agathys}},,Charisma,,AlwaysPrepared)',
+            'AddSpells({{spelllist.ray_of_frost}},,Charisma,,AlwaysPrepared)',
         },
       ],
       skinColors: [...skins.OTH.Aqua, ...skins.TIF.Storm],
@@ -186,16 +222,15 @@ const data = {
       },
       female: {
         head: models.tiefling.Head.female[0],
-        hair: models.tiefling.Hair.female[5],
-        horns: models.tiefling.Horns.female[5],
+        hair: models.tiefling.Hair.female[6],
+        horns: models.tiefling.Horns.female[6],
       },
       male: {
         head: models.tiefling.Head.male[0],
-        hair: models.tiefling.Hair.male[5],
-        horns: models.tiefling.Horns.male[5],
+        hair: models.tiefling.Hair.male[6],
+        horns: models.tiefling.Horns.male[6],
       },
     }),
-    // Mammon { head: 1, hair: 6 }
     // Zariel (fixed) { head: 2, hair: 7 }
     // Devi's Tounge { head: 3, hair: 8 }
     // Feral { head: 3, hair: 9 }
@@ -224,6 +259,10 @@ const data = {
     {
       spells: 'Target_MinorIllusion',
       uuid: '{{spelllist.minor_illusion}}',
+    },
+    {
+      spells: 'Shout_ArmsOfHadar',
+      uuid: '{{spelllist.arms_of_hadar}}',
     },
   ],
 };

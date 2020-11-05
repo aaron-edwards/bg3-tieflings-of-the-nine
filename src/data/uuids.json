@@ -67,5 +67,17 @@
   "glasya.preset.f.visual_ref": "f1127af4-e1fd-4ae6-a233-a31ca950d8b3",
   "glasya.preset.m.id": "80578857-7f10-4443-abcb-ec19764001ef",
   "glasya.preset.m.root_template": "8a6535a5-7e09-409b-a562-ee0354c9278f",
-  "glasya.preset.m.visual_ref": "80aecf01-253e-4ad2-9c11-5c6b32fb821c"
+  "glasya.preset.m.visual_ref": "80aecf01-253e-4ad2-9c11-5c6b32fb821c",
+  "spelllist.mage_hand": "e1407db3-e476-4d8f-a687-d3c795ad8c04",
+  "mammon.id": "70b24c91-1f6a-45ab-bf76-2c0af156d788",
+  "mammon.progression.id": "092c349a-1c13-4189-9be0-0ddf1d91ce7d",
+  "mammon.progression.1.id": "da5c85a6-226d-4b79-b642-8bcf24ba1890",
+  "mammon.progression.3.id": "0da012a2-34c2-4b20-8105-0d384d549782",
+  "mammon.preset.f.id": "db7496e9-0ba6-4620-ac27-bc04f83f0ac8",
+  "mammon.preset.f.root_template": "e2db61a2-6520-4b68-9d27-0138aac4e8a0",
+  "mammon.preset.f.visual_ref": "897278b3-b118-4886-a70e-67d142c98fa1",
+  "mammon.preset.m.id": "b2f450e9-8436-422e-81ce-33f1d61be23c",
+  "mammon.preset.m.root_template": "2f765564-7f97-4184-83a0-6c9abdc091f7",
+  "mammon.preset.m.visual_ref": "f2de4463-b1f9-41f9-acb9-bb7e44b088ff",
+  "spelllist.arms_of_hadar": "a2ff36a1-5a1b-4697-86d1-f1ad8cdcd78f"
 }
