@@ -56,5 +56,16 @@
   "fierna.preset.f.visual_ref": "002d93d5-74bc-4eb5-9fa3-22a8003aeb45",
   "fierna.preset.m.id": "1558c7cd-4892-4173-bd26-2ca03e5beb64",
   "fierna.preset.m.root_template": "31c76269-7f8a-470d-a7cc-c88ea0f9afa7",
-  "fierna.preset.m.visual_ref": "1c330c62-737a-410b-a022-889b53e662f5"
+  "fierna.preset.m.visual_ref": "1c330c62-737a-410b-a022-889b53e662f5",
+  "glasya.id": "c3de3b03-07b6-4897-88b0-2735f702ba86",
+  "glasya.progression.id": "2b22e795-a8fa-434f-b347-fda8fa5d0b88",
+  "glasya.progression.1.id": "1ab67472-bf12-4264-bfc8-f07499027b71",
+  "spelllist.minor_illusion": "6bd53375-5759-4265-b503-89a91332eaeb",
+  "glasya.progression.3.id": "6f258691-4d9c-4010-b526-06da7119940c",
+  "glasya.preset.f.id": "73f31527-867f-4906-8c03-ed7ddc28933d",
+  "glasya.preset.f.root_template": "17a3d25e-c0d9-4e16-be59-5c7fcaa70479",
+  "glasya.preset.f.visual_ref": "f1127af4-e1fd-4ae6-a233-a31ca950d8b3",
+  "glasya.preset.m.id": "80578857-7f10-4443-abcb-ec19764001ef",
+  "glasya.preset.m.root_template": "8a6535a5-7e09-409b-a562-ee0354c9278f",
+  "glasya.preset.m.visual_ref": "80aecf01-253e-4ad2-9c11-5c6b32fb821c"
 }

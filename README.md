@@ -29,6 +29,15 @@ A master manipulator, Fierna grants tieflings tied to her forceful personalities
 - (level 1) Friends cantrip
 - (level 3) Charm person once per long rest (charisma)
 
+### Glasya
+Glasya, Hell’s criminal mastermind, grants her tieflings magic that is useful for committing heists.
+##### Traits
+- Base Racial Speed (9m)
+- Dexterity + 1
+- Charisma + 2
+- (level 1) Minor Illusion cantrip
+- (level 3) Disguise self once per long rest (charisma)
+
 ### Levistus
 Frozen Stygia is ruled by Levistus, an archdevil known for offering bargains to those who face an inescapable doom.
 ##### Traits

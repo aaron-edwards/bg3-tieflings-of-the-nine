@@ -125,7 +125,41 @@ const data = {
         horns: models.tiefling.Horns.male[3],
       },
     }),
-    // Glasya { head: 4, hair: 4, horns: 4 }
+    tiefling({
+      name: 'Glasya',
+      description:
+        'Glasya, Hell’s criminal mastermind, grants her tieflings magic that is useful for committing heists.',
+      levels: [
+        {
+          level: 1,
+          boosts:
+            'Ability(Dexterity,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+          selectors:
+            'AddSpells({{spelllist.minor_illusion}},,Charisma,,AlwaysPrepared)',
+        },
+        {
+          level: 3,
+          selectors:
+            'AddSpells({{spelllist.disguise_self}},,Charisma,,AlwaysPrepared)',
+        },
+      ],
+      skinColors: [...skins.TIF.Violet, ...skins.TIF.Azure],
+      defaults: {
+        eyes: eyes.DemonicGreenA,
+        skin: skins.TIF.Violet[2],
+        hairColor: hairColor.HAIR_Color_BrownAuburn_3,
+      },
+      female: {
+        head: models.tiefling.Head.female[4],
+        hair: models.tiefling.Hair.female[4],
+        horns: models.tiefling.Horns.female[4],
+      },
+      male: {
+        head: models.tiefling.Head.male[4],
+        hair: models.tiefling.Hair.male[4],
+        horns: models.tiefling.Horns.male[4],
+      },
+    }),
     tiefling({
       name: 'Levistus',
       description:
@@ -186,6 +220,10 @@ const data = {
     {
       spells: 'Target_CharmPerson',
       uuid: '{{spelllist.charm_person}}',
+    },
+    {
+      spells: 'Target_MinorIllusion',
+      uuid: '{{spelllist.minor_illusion}}',
     },
   ],
 };
