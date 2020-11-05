@@ -44,5 +44,17 @@
   "levistus2.preset.f.visual_ref": "22c620cb-9afa-40a3-8fef-9f611d761af9",
   "levistus2.preset.m.id": "696e11e2-a16b-4d91-b035-c9afd2e1fcaf",
   "levistus2.preset.m.root_template": "893ebbb5-2239-4b4c-b1f9-8b8e6caf8a01",
-  "levistus2.preset.m.visual_ref": "4259884e-ba43-4f3c-a0ec-a8faa3b609fd"
+  "levistus2.preset.m.visual_ref": "4259884e-ba43-4f3c-a0ec-a8faa3b609fd",
+  "fierna.id": "bdd0d7c2-8934-4813-a242-674bf9b377a9",
+  "fierna.progression.id": "9136c35b-a7cf-4b05-973c-21dc5305c3f5",
+  "fierna.progression.1.id": "61bd500c-c028-4a55-b68a-3c3735c7f9a2",
+  "spelllist.friends": "6488bcee-d293-4286-a841-0b38a267844e",
+  "fierna.progression.3.id": "6bf0dc02-fe57-46a5-9be6-c6843518f2be",
+  "spelllist.charm_person": "919e2de9-2f91-47af-abdd-14a81aa824c6",
+  "fierna.preset.f.id": "fd17a0b2-aaa7-48b2-a706-2cfd864bf152",
+  "fierna.preset.f.root_template": "073176c7-a12c-439f-a6e0-a301a7ff14ac",
+  "fierna.preset.f.visual_ref": "002d93d5-74bc-4eb5-9fa3-22a8003aeb45",
+  "fierna.preset.m.id": "1558c7cd-4892-4173-bd26-2ca03e5beb64",
+  "fierna.preset.m.root_template": "31c76269-7f8a-470d-a7cc-c88ea0f9afa7",
+  "fierna.preset.m.visual_ref": "1c330c62-737a-410b-a022-889b53e662f5"
 }

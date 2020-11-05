@@ -90,7 +90,41 @@ const data = {
         horns: models.tiefling.Horns.male[2],
       },
     }),
-    // Fierna { head: 3, hair: 3, horns: 3 }
+    tiefling({
+      name: 'Fierna',
+      description:
+        'A master manipulator, Fierna grants tieflings tied to her forceful personalities.',
+      levels: [
+        {
+          level: 1,
+          boosts:
+            'Ability(Wisdom,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+          selectors:
+            'AddSpells({{spelllist.friends}},,Charisma,,AlwaysPrepared)',
+        },
+        {
+          level: 3,
+          selectors:
+            'AddSpells({{spelllist.charm_person}},,Charisma,,AlwaysPrepared)',
+        },
+      ],
+      skinColors: [...skins.OTH.Fey, ...skins.TIF.Chili],
+      defaults: {
+        eyes: eyes.DemonicYellowA,
+        skin: skins.OTH.Fey[2],
+        hairColor: hairColor.HAIR_Color_BlondeAsh_0,
+      },
+      female: {
+        head: models.tiefling.Head.female[3],
+        hair: models.tiefling.Hair.female[3],
+        horns: models.tiefling.Horns.female[3],
+      },
+      male: {
+        head: models.tiefling.Head.male[3],
+        hair: models.tiefling.Hair.male[3],
+        horns: models.tiefling.Horns.male[3],
+      },
+    }),
     // Glasya { head: 4, hair: 4, horns: 4 }
     tiefling({
       name: 'Levistus',
@@ -144,6 +178,14 @@ const data = {
     {
       spells: 'Shout_DisguiseSelf',
       uuid: '{{spelllist.disguise_self}}',
+    },
+    {
+      spells: 'Target_Friends',
+      uuid: '{{spelllist.friends}}',
+    },
+    {
+      spells: 'Target_CharmPerson',
+      uuid: '{{spelllist.charm_person}}',
     },
   ],
 };
