@@ -12,7 +12,7 @@
   "dispater.progression.id": "eb7dde10-4bba-460c-b7c9-aeb2800b8048",
   "dispater.progression.1.id": "2fff892e-89ae-4504-9e09-bb7e378e54ba",
   "dispater.progression.3.id": "a4a962ba-e962-4934-b1e5-f36a2a3e0286",
-  "spelllist.disguise_self": "191c87f4-5fa4-4a10-ac55-461798635a69",
+  "spelllist.disguise_self_dis": "191c87f4-5fa4-4a10-ac55-461798635a69",
   "dispater.preset.f.id": "9f6b42b4-ddc7-4e42-a01c-6251f4b7b7e9",
   "dispater.preset.m.id": "6077d5a2-c263-49b1-9b2b-16dd9d405e69",
   "dispater.preset.f.root_template": "129201b0-bcb9-49d8-9123-992321475917",
@@ -79,5 +79,6 @@
   "mammon.preset.m.id": "b2f450e9-8436-422e-81ce-33f1d61be23c",
   "mammon.preset.m.root_template": "2f765564-7f97-4184-83a0-6c9abdc091f7",
   "mammon.preset.m.visual_ref": "f2de4463-b1f9-41f9-acb9-bb7e44b088ff",
-  "spelllist.arms_of_hadar": "a2ff36a1-5a1b-4697-86d1-f1ad8cdcd78f"
+  "spelllist.arms_of_hadar": "a2ff36a1-5a1b-4697-86d1-f1ad8cdcd78f",
+  "spelllist.disguise_self_malbolge": "33cc3b15-8f47-4d85-88b6-6506a56153b3"
 }

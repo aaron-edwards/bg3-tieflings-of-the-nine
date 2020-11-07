@@ -22,7 +22,7 @@ const tieflings = [
       {
         level: 3,
         selectors:
-          'AddSpells({{spelllist.ray_of_sickness}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.ray_of_sickness}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
     ],
     skinColors: [...skins.OTH.Dryad, ...skins.ELF.Wood],
@@ -59,7 +59,7 @@ const tieflings = [
         boosts:
           'Ability(Dexterity,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
         selectors:
-          'AddSpells({{spelllist.disguise_self}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.disguise_self_dis}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
     ],
     skinColors: [...skins.UND.Ash, ...skins.UND.Amethyst],
@@ -93,7 +93,7 @@ const tieflings = [
       {
         level: 3,
         selectors:
-          'AddSpells({{spelllist.charm_person}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.charm_person}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
     ],
     skinColors: [...skins.OTH.Fey, ...skins.TIF.Chili],
@@ -128,7 +128,7 @@ const tieflings = [
       {
         level: 3,
         selectors:
-          'AddSpells({{spelllist.disguise_self}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.disguise_self_malbolge}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
     ],
     skinColors: [...skins.TIF.Violet, ...skins.TIF.Azure],
@@ -164,7 +164,7 @@ const tieflings = [
       {
         level: 3,
         selectors:
-          'AddSpells({{spelllist.arms_of_hadar}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.arms_of_hadar}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
     ],
     skinColors: [...skins.GTY.Gold, ...skins.TIF.Sulfur],
@@ -199,7 +199,7 @@ const tieflings = [
       {
         level: 3,
         selectors:
-          'AddSpells({{spelllist.armor_of_agathys}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.armor_of_agathys}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
     ],
     skinColors: [...skins.OTH.Aqua, ...skins.TIF.Storm],
@@ -241,23 +241,31 @@ const data = {
   tieflings,
   spellLists: [
     {
+      spells: 'Projectile_RayOfSickness_Maladomini',
+      uuid: '{{spelllist.ray_of_sickness}}',
+    },
+    {
       spells: 'Projectile_RayOfFrost',
       uuid: '{{spelllist.ray_of_frost}}',
     },
     {
-      spells: 'Shout_ArmorOfAgathys',
+      spells: 'Shout_ArmorOfAgathys_Stygia',
       uuid: '{{spelllist.armor_of_agathys}}',
     },
     {
-      spells: 'Shout_DisguiseSelf',
-      uuid: '{{spelllist.disguise_self}}',
+      spells: 'Shout_DisguiseSelf_Dis',
+      uuid: '{{spelllist.disguise_self_dis}}',
+    },
+    {
+      spells: 'Shout_DisguiseSelf_Malbolge',
+      uuid: '{{spelllist.disguise_self_malbolge}}',
     },
     {
       spells: 'Target_Friends',
       uuid: '{{spelllist.friends}}',
     },
     {
-      spells: 'Target_CharmPerson',
+      spells: 'Target_CharmPerson_Phlegethos',
       uuid: '{{spelllist.charm_person}}',
     },
     {
@@ -265,7 +273,7 @@ const data = {
       uuid: '{{spelllist.minor_illusion}}',
     },
     {
-      spells: 'Shout_ArmsOfHadar',
+      spells: 'Shout_ArmsOfHadar_Minauros',
       uuid: '{{spelllist.arms_of_hadar}}',
     },
   ],

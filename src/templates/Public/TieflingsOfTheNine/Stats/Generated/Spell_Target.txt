@@ -1,0 +1,8 @@
+new entry "Target_CharmPerson_Phlegethos"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_CharmPerson_2"
+data "MemoryCost" ""
+data "Cooldown" "OncePerRest"
+data "UseCosts" "ActionPoint:1;"
+data "PowerLevel" "2"

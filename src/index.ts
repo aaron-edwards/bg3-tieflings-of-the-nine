@@ -63,18 +63,22 @@ function setUUIDs(data: any): {} {
   }, {});
 }
 
+function outputFileName(f: string) {
+  const fileName = basename(f);
+  if (fileName === 'info.json.hbs' || fileName === 'README.md.hbs')
+    return f.replace(src, build).replace('.hbs', '');
+  if (fileName.endsWith('.hbs')) {
+    if (fileName.startsWith('_'))
+      return f.replace(src, buildMerged).replace('.hbs', '');
+    else return f.replace(src, buildMod).replace('.hbs', '');
+  }
+  return f.replace(src, buildMod);
+}
+
 async function run() {
   for await (const f of getFiles(src)) {
     console.log(f);
-    const fileName = basename(f);
-    const outputFileTemp =
-      fileName === 'info.json.hbs' || fileName === 'README.md.hbs'
-        ? f.replace(src, build)
-        : fileName.startsWith('_')
-        ? f.replace(src, buildMerged)
-        : f.replace(src, buildMod);
-
-    const outputFile = outputFileTemp.replace('.hbs', '');
+    const outputFile = outputFileName(f);
     await mkdir(dirname(outputFile), { recursive: true });
 
     const template = handlebars.compile((await readFile(f)).toString());
