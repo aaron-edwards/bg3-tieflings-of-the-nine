@@ -1,6 +1,9 @@
 # Tieflings of the Nine
 Adds a total of 6 tiefling subraces sourced from Mordenkainen's Tomb of foes.
 
+
+If you are looking for a mod to fix the vanilia tiefling subraces to bring them in line with their PnP versions, I would suggest [Tiefling Racials](https://www.nexusmods.com/baldursgate3/mods/39) by [Vaylentine](https://www.nexusmods.com/baldursgate3/users/98459743)
+
 ## Instalation
 1. Place the included .pak file into \Documents\Larian Studios\Baldur's Gate 3\Mods\
 2. Edit \Documents\Larian Studios\Baldur's Gate 3\PlayerProfiles\[Profile Name]\modsettings.lsx with the following changes
