@@ -16,8 +16,10 @@ const tieflings = [
         boosts:
           'Ability(Intelligence,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
         // Thaumaturgy
+        // selectors:
+        //   'AddSpells(5eada6b7-d9a2-4ef2-8872-0dce047e458c,,Charisma,,AlwaysPrepared)',
         selectors:
-          'AddSpells(5eada6b7-d9a2-4ef2-8872-0dce047e458c,,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.ray_of_sickness}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
       {
         level: 3,
@@ -51,8 +53,10 @@ const tieflings = [
         level: 1,
         boosts:
           'Ability(Dexterity,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+        // selectors:
+        //   'AddSpells({{spelllist.thaumaturgy}},,Charisma,,AlwaysPrepared)',
         selectors:
-          'AddSpells({{spelllist.thaumaturgy}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.disguise_self_dis}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
       {
         level: 3,
@@ -88,7 +92,9 @@ const tieflings = [
         level: 1,
         boosts:
           'Ability(Wisdom,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
-        selectors: 'AddSpells({{spelllist.friends}},,Charisma,,AlwaysPrepared)',
+        // selectors: 'AddSpells({{spelllist.friends}},,Charisma,,AlwaysPrepared)',
+        selectors:
+          'AddSpells({{spelllist.charm_person}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
       {
         level: 3,
@@ -122,8 +128,10 @@ const tieflings = [
         level: 1,
         boosts:
           'Ability(Dexterity,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+        // selectors:
+        //   'AddSpells({{spelllist.minor_illusion}},,Charisma,,AlwaysPrepared)',
         selectors:
-          'AddSpells({{spelllist.minor_illusion}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.disguise_self_malbolge}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
       {
         level: 3,
@@ -158,8 +166,10 @@ const tieflings = [
         level: 1,
         boosts:
           'Ability(Intelligence,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+        // selectors:
+        //   'AddSpells({{spelllist.mage_hand}},,Charisma,,AlwaysPrepared)',
         selectors:
-          'AddSpells({{spelllist.mage_hand}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.arms_of_hadar}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
       {
         level: 3,
@@ -193,8 +203,10 @@ const tieflings = [
         level: 1,
         boosts:
           'Ability(Constitution,1);Ability(Charisma,2);ActionResource(Movement,9,0)',
+        // selectors:
+        // 'AddSpells({{spelllist.ray_of_frost}},,Charisma,,AlwaysPrepared)',
         selectors:
-          'AddSpells({{spelllist.ray_of_frost}},,Charisma,,AlwaysPrepared)',
+          'AddSpells({{spelllist.armor_of_agathys}},,Charisma,,AlwaysPrepared,UntilRest)',
       },
       {
         level: 3,
@@ -232,7 +244,7 @@ const mod = {
   description: `Adds a total of ${tieflings.length} tieflings as playable subraces`,
   created: new Date(now).toISOString(),
   publish_version: Math.floor(Date.now() / 1000),
-  version: 1,
+  version: '1.1',
   uuid: '{{mod}}',
 };
 
@@ -277,6 +289,28 @@ const data = {
       uuid: '{{spelllist.arms_of_hadar}}',
     },
   ],
+  spells: {
+    disguiseSelf: {
+      options: [
+        'Tiefling_Male',
+        'Tiefling_Female',
+        'Drow_Male',
+        'Drow_Female',
+        'Human_Male',
+        'Human_Female',
+        'Githyanki_Male',
+        'Githyanki_Female',
+        'Dwarf_Male',
+        'Dwarf_Female',
+        'Elf_Male',
+        'Elf_Female',
+        'HalfElf_Male',
+        'HalfElf_Female',
+        'Halfling_Male',
+        'Halfling_Female',
+      ],
+    },
+  },
 };
 
 export default data;

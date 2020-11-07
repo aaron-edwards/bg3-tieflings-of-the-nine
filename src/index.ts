@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import { resolve, dirname, basename } from 'path';
 
-import handlebars, { HelperOptions } from 'handlebars';
+import Handlebars, { HelperOptions } from 'handlebars';
 
 import data from './data/data';
 import uuids from './data/uuids.json';
@@ -76,12 +76,20 @@ function outputFileName(f: string) {
 }
 
 async function run() {
+  Handlebars.registerHelper('toUpperCase', function (value) {
+    if (value) {
+      return new Handlebars.SafeString(value.toUpperCase());
+    } else {
+      return '';
+    }
+  });
+
   for await (const f of getFiles(src)) {
     console.log(f);
     const outputFile = outputFileName(f);
     await mkdir(dirname(outputFile), { recursive: true });
 
-    const template = handlebars.compile((await readFile(f)).toString());
+    const template = Handlebars.compile((await readFile(f)).toString());
     writeFile(outputFile, template(setUUIDs(data)));
   }
 }
