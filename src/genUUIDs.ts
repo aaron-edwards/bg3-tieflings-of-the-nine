@@ -31,7 +31,10 @@ async function run() {
   for (const uuidKey of uuidKeys(data)) {
     uuids[uuidKey] = uuids[uuidKey] || uuid();
   }
-  await writeFile(uuidsPath, JSON.stringify(uuids, null, 2));
+  await writeFile(
+    uuidsPath,
+    JSON.stringify(uuids, Object.keys(uuids).sort(), 2)
+  );
 }
 
 run();
